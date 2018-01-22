@@ -1,0 +1,107 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering of Saccharomyces cerevisiae for the production of L-glycerol 3-phosphate
+
+	> Engineering of Saccharomyces cerevisiae for the production of
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> l-glycerol 3-phosphate (l-G3P) was accumulated in Saccharomyces cerevisiae by
+	pathway engineering.  ...... In fact, the triple mutant gpp1Dgpp2D pdc2D
+	overexpressing GPD1 accumulated 17 mg l-G3P/g dry weight during glucose batch
+	fermentation under oxygen limitation. This value corresponds to an about
+	100-fold increase compared to that found in the wild type.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Engineering of Saccharomyces cerevisiae for the production of l-glycerol
+	3-phosphate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 2.1. Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Medium and culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Wild  type  (W303-1A),  gpp1D  (YA101)  and gpp1Dgpp2D (YA103) mutant strain of
+	S. cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	>   were grown in Erlenmeyer flasks at 30 C on a rotary shaker at 200 rpm in YEPD
+	medium (2% peptone, 1% yeast extract, 2% glucose). The same strains containing
+	R  R  the plasmids YEpKm GPD1 or YEpKm were grown in synthetic yeast nitrogen
+	base (YNB) medium (Difco, USA) supplemented with 2% glucose as well as
+	histidine, adenine, tryptophane and uracil (final concentration of 120 mg/ml
+	each). This medium is referred   to as YNB (Glc/leu ) medium. Strains deleted
+	in PDC2 grow very slowly on glucose and were therefore precultured in YEPEG
+	medium (2% peptone, 1% yeast extract, 2% (v/v) glycerol, 2% (v/v) ethanol). The
+	YEPEG medium was supplemented with 200 mg/ml Geneticin G418 when pdc2D deletion
+	strains containing one of the plasmids mentioned above were pre-cultured. In
+	order to initiate batch fermentation, cells were precultured as specified,
+	harvested, centrifuged and then transferred to fresh glucose medium.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Fig. 2. Intracellular accumulation of l-G3P in wild type (W303-1A), gpp1D single
+	(YA101) and gpp1Dgpp2D double mutant (YA103) of S. cerevisiae  transformed
+	with  either  GPD1  multicopy  plasmid R  R  YEpKm GPD1 (gray bars) or the
+	empty vector YEpKm  (open   bars). Cells were cultivated in YNB (Glc/leu ) in
+	shake-flasks and harvested for extraction of l-G3P in the mid-log phase of
+	growth. Data shown are the average values from two or three independent
+	experiments including the standard deviations.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:32
+
+
+	> Fig. 5. Intracellular accumulation of l-G3P in gpp1Dgpp2D (YA103) and
+	gpp1Dgpp2Dpdc2D mutant (YHN2) transformed with either GPD1 overexpression
+	plasmid (gray bars) or the reference plasmid (open bars). Cells were pre-grown
+	in YEPEG medium enabling growth of the   triple mutant. Then, glucose batch
+	fermentation in YNB (Glc/leu ) medium was inoculated at a cell concentration
+	corresponding to an OD600 of about 0.8. Samples for extraction and measurement
+	of l-G3P were taken after 6 h of cultivation under oxygen limitation (see
+	legend of Table 2). Values shown are the average values from two independent
+	experiments including standard deviations
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:31
+
+
+	> The triple mutant gpp1D gpp2Dpdc2D overexpressing GPD1 was the best l-G3P
+	producer under the conditions tested. The level of 17 mg/g yeast dry weight
+	corresponds to an increase of 100 times when compared to the wild-type level
+	during aerobic fermentation of glucose (0.17 mg/g yeast dry weight).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:29

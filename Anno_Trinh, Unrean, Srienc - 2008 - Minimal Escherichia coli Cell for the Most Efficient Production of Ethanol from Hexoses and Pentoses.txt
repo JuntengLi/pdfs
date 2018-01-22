@@ -1,0 +1,202 @@
+
+
+--------------------------------------------------------------------------------
+# Minimal Escherichia coli Cell for the Most Efficient Production of Ethanol from Hexoses and Pentoses
+
+	> ...... cherichia coli Cell for the Most Efficient 䌤
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:47
+
+
+	> 
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:47
+
+
+	> cherichia coli Cell for the Most Efficient 䌤
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:47
+
+
+	> Bacterial strains and plasmids. Table 1 shows a list of bacterial strains and
+	asmids used in this study. E. coli MG1655 was used as the wild type. All utants
+	with single deleted genes were
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:47
+
+
+	> lemental material).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> Growth medium. All controlled batch bioreactor studies used Lauria Berni (LB)
+	rich medium containing 5 g/liter NaCl, 5 g/liter yeast extract, 10 iter
+	trypone, 80 g/liter total sugars (unless otherwise specified), and 10 /ml
+	tetracycline. The LB components were autoclaved. The sugars and racycline were
+	sterile filtered and added into bioreactors. Growth experients conducted in
+	baffled shake flasks used defined medium containing 12.8 iter Na2HPO4.7H2O, 3
+	g/liter KH2PO4, 0.5 g/liter NaCl, 1 g/liter NH4Cl, % (vol/vol) 1 M MgSO , 0.01
+	g/liter CaCl , 0.1% (vol/vol) stock trace etals solution, 1 mg/liter thiamine,
+	2 g/liter xylose, and 2 g/liter glucose. The ock trace metal solutions
+	consisted of 0.15 g/liter H3BO4, 0.065 g/liter SO4, 0.05 g/liter ZnSO4.7H2O,
+	0.015 g/liter MnCl2.4H2O, 0.015 g/liter Mo4.2H2O, 0.01 g/liter r Fe(NH )
+	citrate.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> Growth in batch bioreactors. Batch bioreactor experiments were conducted in
+	-liter Braun bioreactors (Biostat MD; B. Braun Biotech International, Melngen,
+	Germany) with a working volume of 6 liters under anaerobic conditions. e
+	temperature and agitation rate were set at 37°C and 200 rpm, respecely. Single
+	colonies were picked from freshly streaked plates and grown ernight in 15-ml
+	tubes containing 5 ml of rich medium. The cultures were en transferred to
+	250-ml capped shake flasks containing 100 ml of rich edium. Exponential
+	cultures
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> th conducted in baffled shake flasks, the procedures used were as eviously
+	reported (41). For growth in anaerobic shake tubes, anaerobic 30-ml ss tubes
+	were filled with 20 ml of defined med
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> 
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> We tested the performance of strain TCS083/pLOI297 tother with MG1655/pLOI297 as
+	a control, first on individual lose and glucose sugars and then on sugar
+	mixtures in conolled batch bioreactors. Figure 4A and B shows the batch actor
+	time profiles of the wild-type MG1655/pLOI297 and CS083/pLOI297 for growth on
+	80 g/liter glucose. MG1655/ LOI297 achieved an ethanol yield of 0.46 ⫾ 0.01 (g
+	ethanol/g ucose) and an ethanol titer of 36.53 ⫾ 0.31 g/liter. Under entical
+	growth conditions, TCS
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> CS083/pLOI297 CS083/pLOI297 CS083/pLOI297
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> ucose ylose ucose and xylose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> as significantly slower than the glucose consumption te. As shown in Fig. 4C,
+	MG1655/pLOI297 could not cometely consume all xylose, with about 4% of the
+	xylose remaing unused after 72 h. MG1655/pLOI297 achieved an ethanol eld of
+	0.46 ⫾ 0.01 (g ethanol/g xylose) and an ethanol titer of .08 ⫾ 2.15 (g/liter).
+	In contrast, the TCS083/pLOI297 phe-
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 11 ⫾ 0.47 25 ⫾ 0.12 54 ⫾ 0.16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> ⫾2  84 ⫾ 2 ⫾1  58 ⫾ 1 ⫾1  68 ⫾ 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> ⫾2  84 ⫾ 2 ⫾1  58 ⫾ 1 ⫾1  68 ⫾ 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> .20 ⫾ 0.34 .22 ⫾ 0.09 .46 ⫾ 0.57
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> owth on glucose. It could consume all xylose after 54 h and ached a cell dry
+	weight of 3.25 ⫾ 0.12 g/liter (Fig. 4D). From e pathway stoichiometries, we
+	deduced again that 42% ⫾ 1% the xylose consum ed was used in the reactions
+	leading to omass formation. The stoichiometry and the weighted avere of the two
+	pathway types resulted in a final ethanol titer of .22 ⫾ 0.09 g/liter, which is
+	again very close to the experible 5).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> ble 5). Determination of the ethanol production kinetics on a mixre of 40
+	g/liter glucose and 40 g/liter xylose showed that G1655/pLOI297 consumed first
+	glucose and then xylose in a quential manner. As shown in Fig. 4E, it took
+	MG1655/ LOI297 only about 12 h to completely consume glucose but h to consume
+	just 20% of 40 g/liter xylose. The slow xylose nsumption rate of the wild type
+	after the glucose was conmed was probably due to a combination of cellular
+	inhibitory fects resulting from the formation of by-products such as ccinic
+	acid, lactic acid, acetic acid, ethanol, and formic acid. G1655/pLOI297
+	achieved an ethanol yield of 0.40 ⫾ 0.02 (g hanol/g sugar) and an ethanol titer
+	of 18.66 ⫾ 1.01 (g/liter). contrast, TCS083/pLOI297 did not show pronounced
+	diuxic growth behavior. It could simultaneously consume both ucose and xylose
+	and completely utilize all sugars within 48 h. CS083/pLOI297 reached a biomass
+	concentration of 3.54 ⫾ 16 g/liter (Fig. 4F). Assuming that both sugars equally
+	conbuted to the biomass formation reaction, this translates to e use of 32% ⫾
+	1% of the sugars for growth and the conrsion of the rest into ethanol at
+	theoretical values to reach a nal titer of 39.46 ⫾ 0.57 g/liter. The
+	experimentally deter ...... , 39 ⫾ 1% of e total xylose consumed was used for
+	growth. The computed nal ethanol titer was 19.32 ⫾ 0.73 g/liter and compa
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> and FBR5/pLOI297 (29) under similar owth conditions. For a similar period of
+	xylose fermentation, oth KO11 and FBR5/pLOI297 achieved a similar ethanol eld
+	of 0.46 ⫾ 0.01 (g/g), for a range of 75 to 90 g/liter xylose nsumed, while
+	TCS083/pLOI297 reached a higher ethanol eld of 0.49 ⫾ 0.01 (g/g). In addition,
+	FBR5/pLOI297 obined an ethanol yield of 0.46 ⫾ 0.03 (g/g) for a similar period
+	glucose fermentation, while TCS083/pLOI297
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:59

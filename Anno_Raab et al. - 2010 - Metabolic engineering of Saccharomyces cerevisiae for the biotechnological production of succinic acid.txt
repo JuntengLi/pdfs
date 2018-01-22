@@ -1,0 +1,265 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of Saccharomyces cerevisiae for the biotechnological production of succinic acid
+
+	> Metabolic engineering of Saccharomyces cerevisiae for the biotechnological
+	production of succinic acid
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> In this study we report on the suitability of the highly acid- and osmotolerant
+	yeast Saccharomyces cerevisiae as a succinic acid production host. We
+	implemented a metabolic engineering strategy for the oxidative production of
+	succinic acid in yeast by deletion of the genes SDH1, SDH2, IDH1 and IDP1. The
+	engineered strains harbor a TCA cycle that is completely interrupted after the
+	intermediates isocitrate and succinate. The strains show no serious growth
+	constraints on glucose. In glucose-grown shake flask cultures, the quadruple
+	deletion strain Dsdh1Dsdh2Didh1Didp1 produces succinic acid at a titer of 3.62
+	g L  1  (factor 4.8 compared to wild-type) at a yield of 0.11 mol (mol
+	glucose)  1  .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Strains, media and culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> All yeast strains used in this study (Table 1) are derived from strain S.
+	cerevisiae AH22ura3 (MATa ura3D leu2-3 leu2-112 his4-519 can1), which has been
+	described (Polakowski et al.,     1998). The E. coli strain K12 JM109 (e14
+	(McrA ), recA1, endA1, gyrA96, thi-1, hsdR17(rK  mK + ), supE44 relA1, D(lac-
+	proAB), q  [FtraD36 proABlaql ZDM15]) was used for maintenance and
+	amplification of plasmid DNA (Yanisch-Perron et al., 1985). Bacteria were grown
+	in standard LB medium at 37 1C. Yeast strains were cultivated in defined
+	minimal WMVIII medium (Lang and Looman, 1995) with 50 g L  1  glucose instead
+	of sucrose supplemented with histidine (100 mg L  1  ), uracil (100 mg L  1
+	) and leucine (400 mg L  1  ) on a rotary shaker (150 rpm) at 30 1C.
+	Precultures (20 ml) were grown to the stationary phase in 100 ml shake flasks.
+	Main cultures (50 ml) were inoculated with 1% of the preculture in baffled 250
+	ml shake flasks. All shake flask cultivations were carried out in at least
+	duplicates. For colony growth assays yeast cells were grown to the early
+	stationary phase and spotted at different dilutions (10  1 10  4  ) on
+	culture plates with defined minimal WMVIII medium (Lang and Looman, 1995) with
+	5% glucose (instead of sucrose) supplemented with histidine (100 mg L  1  ),
+	uracil (100 mg L  1  ), leucine (400 mg L  1  ) and optionally glutamate (2 g
+	L  1  ). Plates were incubated for 96 h at 30 1C after spotting the dilutions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> The wild-type accumulated succinic acid up to a concentration of ca. 0.76 g L
+	1  within 168 h (Table 3). The succinic acid concentration reached the highest
+	level after 48 h and then remained constant until the end of fermentation.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> In contrast to the wild-type, the strains AH22ura3Dsdh2 and
+	AH22ura3Dsdh2Dsdh1Didh1 (Fig. 2B  and C) exhibited strong accumulation of
+	acetate and glycerol in the culture broth. Acetate was enriched in both the
+	exponential growth phase and throughout the further course of the fermentation
+	and reached concentrations of 6.4 g L  1  .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Succinic acid titers and yields.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Wild-type  ...... 0.76  ...... Dsdh2  ...... 2.75  ...... Dsdh2Dsdh1  ......
+	2.81  ...... Dsdh2Didh1  ...... 2.89  ...... Dsdh2Dsdh1Didh1  ...... 2.98
+	...... Dsdh2Dsdh1Didh1Didp1 3.62
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Titer (g L  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Titer (g L  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Yxs (mol (mol glc)  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> (mol glc)  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> 0.023 0.084 0.086 0.088 0.091 0.111
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> % of theoretical b  maximum yield
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> 2.3 8.4 8.6 8.8 9.1 11.1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Table 5  ...... Growth rates and biomass concentrations.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Wild-type Dsdh2 Dsdh2Dsdh1 Dsdh2Didh1  ...... Dsdh2Dsdh1Didh1
+	Dsdh2Dsdh1Didh1Didp1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> mmax (h  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> 0.25 0.26 0.26 0.22 0.22 0.20
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> mmax (h  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Dry yeast biomass (g L  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> After 72 h
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> 13.1 9.1 7.3 7.0 8.5 7.0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Dry yeast biomass (g L  1 a  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> After 168 h
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> 12.7 6.1 6.0 5.9 6.1 4.9
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> The additional deletion of genes IDH1 and IDP1 in SDH disruptants even resulted
+	in  higher  succinic  acid  levels.  Strain  AH22ura3 Dsdh2Dsdh1Didh1Didp1
+	formed succinic acid continuously up to a titer of 3.62 g L  1  (factor 4.8
+	compared to wild-type and factor 1.3 compared to AH22ura3Dsdh2) at a yield of
+	0.11 mol (mol glucose)  1  .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:04
+
+
+	> Nevertheless, a succinic acid titer of 3.62 g L  1  is, to the best of our
+	knowledge, the highest titer ever reported for yeast
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:06
+
+
+	> The constructed yeast strains with disruptions in the TCA cycle after the
+	intermediates isocitrate and succinate produce succinic acid at a titer of up
+	to 3.62 g L  1  at a yield of 0.11 mol (mol glucose)  1  in glucosegrown
+	shake flask cultures and do not exhibit serious growth constraints on glucose.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:06

@@ -1,0 +1,94 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering Escherichia coli cells for cellobiose assimilation through a phosphorolytic mechanism
+
+	> Engineering Escherichia coli Ce
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:24
+
+
+	> We report here the first engineering effort for Escherichia coli biocatalysts to
+	assimilate cellobiose through a phosphorolytic echanism. Cytoplasmic expression
+	of the Saccharophagus cellobiose phosphorylase was shown to enable E. coli to
+	use cellobie. Subsequent knockout an
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:24
+
+
+	> a cellobiose phosphorylase enables E. coli to e cellobiose. In this study, we
+	cloned and overexpre  ...... nsformed into E. coli KO11 (ATCC 55124), an
+	hanologen. The resulting KO11 transformant and a control with e same host
+	bearing an empty plasmid were cultured anaerobilly in M9 minimal medium in the
+	presence of 1% cellobiose as e carbon source at 250 rpm at 37°C for 72 h. M9
+	medium conins (per liter) 12.8 g Na2HPO4 · 7H2O, 3 g KH2PO4, 0.5 g NaCl, MM nd
+	1 g NH4Cl and 2 mM MgSO4-- 0.1 mM CaCl2. Ampicillin at a ncentration of 100
+	␮g/ml and IPTG at a concentration of 0.2 M and a small amount of yeast extract
+	(0.005 g/liter) (Fisher ientific, Pittsburgh, PA) were included in the medium.
+	Cells pressing CepA were able to grow in M9 medium with cellobiose the sole
+	carbon source (Fig. 1A), and cellobiose was consumed ter about 36 h of
+	incubation (Fig. 1C). In contrast, the control, e transformant with an empty
+	plasmid (KO11 No-CepA), did ot grow
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:24
+
+
+	> O11 No-CepA O11 CepA O11 DelLacY CepA  0.05 ⫾ 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> ol production from both M9 nd LB medium were quantified. As shown in Fig. 1E and
+	F and able 1, a quantitative conversion of cellobiose to ethanol was hieved in
+	LB medium for KO11 expressing CepA and the comement strains carrying both LacY
+	and CepA on a plasmid. The eoretical yield of 0.537 g ethanol/g cellobiose was
+	used in all lculations. In M9 medium, however, the yield of ethanol was
+	nsiderably lower, reaching about 63.22% ⫾ 0.18% for KO11 pressing CepA and
+	47.48% ⫾ 1.84% for the knockout/compleent strain,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> O11 No-CepA O11 CepA O11 DelLacY CepA  0.77 ⫾ 0.06 KO11 DelLacY CepA-LacY  4.99
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> hanol co /liter) 1 ⫾ 0.04 4 ⫾ 0.01 O11 DelLacY CepA  0.05 ⫾ 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 87 ⫾ 0.05 27 ⫾ 0.05 O11 DelLacY CepA  0.77 ⫾ 0.06 KO11 DelLacY CepA-LacY  4.99
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> hanol eld (%) 76 ⫾ 0.93 .22 ⫾ 0.18 93 ⫾ 0.37
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> .2 ⫾ 1.31 .13 ⫾ 1.31 .33 ⫾ 1.48
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25

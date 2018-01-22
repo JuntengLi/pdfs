@@ -1,0 +1,86 @@
+
+
+--------------------------------------------------------------------------------
+# Isobutanol production from d-xylose by recombinant Saccharomyces cerevisiae
+
+	> Isobutanol production from D-xylose by recombinant Saccharomyces cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> Simultaneous overexpression of an optimized, cytosolically localized valine
+	biosynthesis pathway together with overexpression of xylose isomerase XylA from
+	Clostridium phytofermentans, transaldolase Tal1 and xylulokinase Xks1 enabled
+	recombinant Saccharomyces cerevisiae cells to complement the valine auxotrophy
+	of ilv2,3,5 triple deletion mutants for growth on D-xylose as the sole carbon
+	source. Moreover, after additional overexpression of ketoacid decarboxylase
+	Aro10 and alcohol dehydrogenase Adh2, the cells were able to ferment D-xylose
+	directly to isobutanol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> Saccharomyces cerevisiae was grown in selective medium (1.7 g L  1  Difco yeast
+	nitrogen base without amino acids and with 5 g L  1  ammoniumsulfate),
+	supplemented with amino acids but omitting the selective plasmid marker
+	nutrients (SC) (Zimmermann, 1975). Compared to SC media, SM media contained
+	only the auxotrophic requirements. As carbon sources, media contained either 20
+	g L  1  D-glucose  (SCD, SMD) or 20 g L  1  D-xylose  (SCX, SMX). In the growth
+	assays with Isoy16 transformants, 5 g L  1  leucine + 5 g L  1  isoleucine + 5
+	g L  1  valine were used as nitrogen source and to complement the branched-
+	chain amino acids requirement.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> To investigate isobutanol production from  D-xylose, strain Isoy17 was
+	transformed with the plasmids expressing the xylose and valine pathways, and
+	additionally with the plasmid pRS42HH7-Aro10-Adh2 expressing Aro10 ketoacid
+	decarboxylase and Adh2 alcohol dehydrogenase (Brat et al., 2012). Aerobic
+	fermentation experiments were performed in 500-mL shake flasks. Transformants
+	were pre-grown in selective SCX medium without valine (empty vector control
+	with valine), harvested and used to inoculate SCX medium without valine in
+	shake flasks at an OD600  nm of 1 (Fig 3a).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Fig. 3. Isobutanol production from D-xylose with recombinant S. cerevisiae
+	cells. Fermentation experiments were performed aerobically at 30 °C in shake
+	flasks in selective SC-val medium containing 20 g L  1  D-xylose.  All
+	transformants contained plasmids overexpressing the codon ...... optimized xylA
+	gene from C. phytofermentans, XKS1, TAL1, ARO10 and ADH2. Additionally,
+	transformants contained plasmids overexpressing  ...... wild-type ILV2, ILV5
+	and ILV3 (closed squares), codon-optimized truncated ILV2DN54, ILV5DN48 and
+	ILV3DN19 (closed triangles) or the corresponding empty vectors (closed circles)
+	(in c and d closed circles overlap with closed squares). Experiments were
+	performed in triplicate with  ...... given standard deviations (in a and b
+	standard deviations were within the area of the symbols). a--d: OD600  nm  (a),
+	D-xylose consumption (b), isobutanol production (c) and ethanol production (d).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Fermentations were performed up to 146 h in triplicate using different
+	precultures (Fig. 3). Metabolite analysis revealed that D-xylose was used as a
+	carbon source but was not completely consumed (Fig. 3b). The cells expressing
+	the codon-optimized cytosolic isobutanol pathway (p425synthILV235) consumed
+	about 12 g D-xylose and produced up to 1.36  0.11 mg L  1  isobutanol with a
+	yield of 0.16  0.04 mg isobutanol per g D-xylose (Fig. 3c). Additionally,
+	ethanol was produced but only in low amounts (0.415  0.065 g L  1  with a
+	yield of 0.040  0.014 g ethanol per g D-xylose) due to the low D-xylose
+	utilization rate and the aerobic conditions (Fig. 3d)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36

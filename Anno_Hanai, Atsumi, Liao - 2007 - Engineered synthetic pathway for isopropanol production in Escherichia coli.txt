@@ -1,0 +1,119 @@
+
+
+--------------------------------------------------------------------------------
+# Engineered synthetic pathway for isopropanol production in Escherichia coli
+
+	> ...... Pathway for Isop 䌤
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:01
+
+
+	> A synthetic pathway was engineered in Escherichia coli to produce isopropanol by
+	expressing various combinaons of genes from Clostridium acetobutylic  ......
+	toacetate decarboxase), and C. beijerinckii adh (secondary alcohol
+	dehydrogenase) achieved the highest titer. This
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:01
+
+
+	> Pathway for Isop 䌤
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:01
+
+
+	> Strains and plasmid construction. Table 1 shows the strains and plasmids used q
+	this study. E. coli strain B (ATCC 11303) with lacI introduced from E. coli
+	H5␣Z1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:01
+
+
+	> T. brockii. This sequence is shown in the supplemental material.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:43
+
+
+	> Medium and cultivation. As the preculture medium, SD-7 containing 2% ucose was
+	prepared (NH4Cl, 7.0 g/liter; KH2PO4, 1.5 g/liter; Na2HPO4, 1.5 iter; K2SO4,
+	0.35 g/liter; MgSO4 䡠 7H2O, 0.17 g/liter; trace elements, 0.8 ml/ er; yeast
+	extract, 5 g/liter) as described previously (13). SD-8 medium (NH4Cl, g/liter;
+	KH2PO4, 7.5 g/liter; Na2HPO4, 7.5 g/liter; K2SO4, 0.85 g/liter; gSO 䡠 7H O,
+	0.17 g/liter; trace elements, 0.8 ml/liter; yeast extract; 10 g/liter) 3)
+	containing 2% glucose was used for fermentations. The trace element ution
+	contained the following (in grams per liter of 5 M HCl): FeSO4 䡠 7H2O, 0; MnSO4
+	䡠 H2O, 10.0; Al2(SO4)3, 28.3; CoCl2 䡠 6H2O, 4.0; ZnSO4 䡠 7H2O, ; Na2MoO4 䡠
+	2H2O, 2.0; CuCl2 䡠 2H2O, 1.0; and H3BO4, 0.5. Antibiotics were d as appropriate
+	(ampicillin, 100 ␮g/ml, and chloramphenicol, 40 ␮g/ml). Preculture with 5 ml of
+	SD-7 medium in a test tube was performed at 37°C ernight (17 h) on a rotary
+	shaker (250 rpm); 250 ␮l of overnight culture was oculated into 25 ml of SD-8
+	medium in a 250-ml flask with baffles. When the tical density at 600 nm was
+	⬃1.0 (3 h), 0.1 mM IPTG (isopropyl-␤-D-thioactopyranoside) was added for
+	induction. Cells were grown at 37°C for 30.5 h on
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:43
+
+
+	> rent gene combinaons for isopropanol production (Fig. 2). All synthetic pathways
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:52
+
+
+	> 1 mM (20 g/liter) under aerobic conditions. For all combinaons, glucose was
+	exhausted within 12 h after inoculation (9 h ter induction with IPTG). As shown
+	in Fig. 2, TA11 with TA39/pTA36 produced the greatest amount of isopropanol.
+	The
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:52
+
+
+	> he pathway activity was stable even after 14 h starvation. When glucose was
+	exhausted (30.5 h), the
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:52
+
+
+	> study, we achieved the first isopropanol production in coli. In shake flask
+	cultures, strain TA11 containing pTA39/ TA36 produced 81.6 mM isopropanol at
+	30.5 h with a maxium productivity of 6.9 mM/h (0.41 g/liter/h) between 3 and 5
+	h. The engineered E. coli surpassed the best reported strain C. beijerinckii,
+	NRRL B593, which produces isopropanol at 30 mM with a maximum productivity of
+	⬃3 mM/h (⬃0.18 liter/h) (4). The isopropanol yield at 9.5 h after inoculation
+	as 43.5% (mol isopropanol/mol glucose). The yield was callated from the
+	isopropanol produced (44.8 mM) and the ucose consumed (103.0 m
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:52
+
+
+	> concentration, and a modified veron of E. coli strain B. Nevertheless, our batch
+	production ing the same gene construction (pTA41) achieved 60.3 mM acetone at
+	12 h (data not shown). In shake flasks, strain A11 containing pTA39 achieved a
+	maximum concentration of 8.3 mM at about 30 h and a maximum productivity of
+	12.1 M/h (0.70 g/liter/h) at 3 to 9.5 h. The acetone titer also ceeded that
+	produced by wild-type C. acetobutylicum (90 M) (1). Without further
+	optimization of the strain and the rmentation conditions, the acetone yield at
+	12 h after inocation was already 73.5% (mol/mol) of the theoretical maxium.
+	This high yield indicates a great potential for using etabolically e
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:45

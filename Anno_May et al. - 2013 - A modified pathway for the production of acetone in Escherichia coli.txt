@@ -1,0 +1,362 @@
+
+
+--------------------------------------------------------------------------------
+# A modified pathway for the production of acetone in Escherichia coli
+
+	> A modified pathway for the production of acetone in Escherichia coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> A modified synthetic acetone operon was constructed. It consists of two genes
+	from Clostridium acetobutylicum (thlA coding for thiolase and adc coding for
+	acetoacetate decarboxylase) and one from Bacillus subtilis or Haemophilus
+	influenzae (teIIsrf or ybgC, respectively, for thioesterase). Expression of
+	this operon in Escherichia coli resulted in the production of acetone starting
+	from the common metabolite acetyl-CoA via acetoacetyl-CoA and acetoacetate
+	...... Only E. coli strains HB101 and WL3 were able to produce acetone via the
+	modified plasmid based pathway, up to 64 mM and 42 mM in 5-ml cultures,
+	respectively. Using glucose fed-batch cultures the concentration could be
+	increased up to 122 mM acetone with HB101 carrying the recombinant plasmid
+	pUC19ayt (thioesterase from H. influenzae). The formation of acetone led to a
+	decreased acetate production by E. coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> Bacterial strains and plasmids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Table 1 lists the bacterial strains and plasmids used in
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> this study.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Growth conditions and media
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Except when otherwise mentioned, E. coli strains were grown at 30 1C or 37 1C
+	with shaking at 150 rpm--180 rpm. 5-ml cultures were inoculated with a single
+	colony from fresh LB plates grown overnight. If 5-ml cultures were used for
+	growth experiments, an inoculum of 1% of a same medium overnight liquid culture
+	was used. Larger volume cultures were inoculated with 1%--2% from an overnight
+	liquid culture. To grow cultures LB medium (10 g/l tryptone, 5 g/l yeast
+	extract, 10 g/l NaCl) or 2  YT (16 g/l tryptone, 10 g/l yeast extract,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 5 g/l NaCl) were used. For growth of recombinant strains the appropriate
+	antibiotic was added
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Growth experiments concerning the acetone formation were carried out in 5-ml
+	cultures (1.5  15 cm test tubes) or in 100-ml cultures (1000-ml Erlenmeyer
+	shake flasks with baffles; Glasgerä rätebau Ochs, Bovenden, Germany) in LB
+	medium supplied with 100 mg/ml ampicillin. Tubes and flasks were shaken at 180
+	rpm in a rotary shaker. For expression of the synthetic acetone operons, 1 mM
+	IPTG was added when an OD600 between 0.4 and 0.5 was reached. After further
+	incubation for 3 h 20 g/l glucose (from a 500 g/l stock solution) was added. In
+	glucose fed-batch cultures the glucose content of the cultures was regularly
+	checked and occasionally supplemented to maintain glucose concentration above 2
+	g/l.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Expression of the modified synthetic acetone operon led to significant
+	production of acetone (up to 63 mM) only in the E. coli strains HB101 and WL3
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:57
+
+
+	> Maximal acetone production (mM) in different E. coli strains in 5-ml cultures
+	(LB medium) transformed with constructed plasmids.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> pUC19act pUC19att pUC19ayt pUC18att pUC18ayt
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> B
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 23.7
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0.47 0.84 0.77 0.79
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> C600
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 26.9
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 1.45 1.75 0 0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> ER2275
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 80.9 0.2 0.5 0.79 n.d.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> HB101
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 35.8 31.6 63.7 32.2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 3.70
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Since strain HB101 (pUC19ayt) showed the highest acetone titer it was chosen for
+	a scale-up experiment from a 5-ml to a 100-ml culture in baffled shake flasks
+	(37 1C, 180 rpm). Growth, acetone and acetate production, glucose consumption
+	and pH were analyzed. As shown in Fig. 4a, after addition of glucose the
+	acetone titer increased continuously to a maximum of 76 mM
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> JM109
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 47.0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0 0.59 0.42 0.40
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> K12
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0.34 0.14 0.84 0.64 n.d.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> N99
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 24.5
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0.56 0.66 0.27 1.5
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> RR1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 1.90 0.81 0.55 0.20 0.44
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> WL3  W3110
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 41.3 25.8 42.4
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0 0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> (4.4 g/l) at 48 h. At this time the glucose was exhausted. The pH dropped down
+	to a minimum of 4.7 and the average acetate concentration was 22 mM. To test if
+	continued supplementation of glucose would increase the acetone titer, a fed-
+	batch culture was performed (Fig. 4b). In this case the pH of the culture was
+	kept above 5 by addition of NaOH and glucose was added four times during the
+	entire cultivation time of 80 h. The maximum of acetone production was reached
+	at 48 h with a titer of 122 mM (7.1 g/l)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> WL3  W3110
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 1.05 0 0.63 0.96 0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 223
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> XL-1B
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 68.4
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0.64 0.6 0 0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> With the new acetone pathway the yield (g acetone/g glucose) was 0.19 which is
+	60% of the theoretical maximum (0.32). Again, with the clostridial pathway
+	introduced in E. coli the yield was lower, below 50% of the maximum (Bermejo et
+	al., 1998). In a fed-batch culture, acetone concentrations of up to 122 mM (7.1
+	g/l) were obtained. In comparison, the classical ABE fermentation with C.
+	acetobutylicum resulted in acetone titers of about 5 g/l
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:01

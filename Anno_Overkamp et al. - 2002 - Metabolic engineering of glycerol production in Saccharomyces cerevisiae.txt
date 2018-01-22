@@ -1,0 +1,219 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of glycerol production in Saccharomyces cerevisiae.
+
+	> Metabolic Engineering of Glycerol Production in
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> Serial transfer of the quadruple mutant on high-glucose media yielded a
+	spontaneous mutant with much higher ⴚ1  specific growth rates in high-glucose
+	media (up to 0.10 h ⴚ1  at 100 g of glucose · liter 1  ). In aerated batch ⴚ1
+	cultures grown on 400 g of glucose · liter , this engineered S. cerevisiae
+	strain produced over 200 g of ⴚ1  glycerol · liter , corresponding to a molar
+	yield of glycerol on glucose close to unity
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> Saccharomyces cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> Yeast strains and maintenance.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:19
+
+
+	> Shake flask cultivation. Shake flask cultures were grown in an orbital incubator
+	(200 rpm, 30°C) in spherical flat-bottom flasks (500 ml) containing 100 ml of
+	medium. Precultures were grown on MMU medium supplemented with 5 ml of ethanol
+	· liter  ⫺1  and 1 g of glucose · liter  ⫺1  . During the exponential growth
+	phase, the optical density at 660 nm (OD660) was measured with an Amersham
+	Pharmacia Novaspec II spectrophotometer. Exponential-phase cultures were used
+	as the inoculum for further shake flask experiments.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:19
+
+
+	> Chemostat cultivation. Chemostat cultures were grown in 1-liter workingvolume
+	laboratory fermentors as described previously (31). This reference also
+	describes procedures for gas analysis and determination of biomass dry weight.
+	One-hundred-milliliter precultures in shake flasks, inoculated with 2 ml of a
+	frozen stock culture, were grown to stationary phase on YPED medium. These
+	precultures were used to inoculate a fermentor containing 1 liter of MMA medium
+	[5.0 g of (NH4)2SO4 · liter  ⫺1  , 3.0 g of KH2PO4 · liter  ⫺1  , 0.5 g of
+	MgSO4 · 7H2O per liter, vitamins, and trace elements as in the MMU medium
+	described above] supplemented with 1 g of glucose · liter  ⫺1  and 10 ml of ⫺1
+	ethanol · liter  . The continuous medium supply was initiated when a steep
+	increase of the dissolved-oxygen concentration indicated depletion of the
+	carbon source. The synthetic medium used for continuous cultivation was MMA
+	medium supplemented with 7.5 g of glucose · liter  ⫺1  (60% of total carbon)
+	and 83 mM ethanol (40% of total carbon). The dilution rate was set at 0.05 h
+	⫺1  . For growth on glucose as a sole carbon source, the feed of the chemostat
+	culture growing on the glucose-ethanol mixture was switched to the same medium
+	without ethanol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:19
+
+
+	> Batch cultivation in fermentors. One milliliter of frozen stock culture of the
+	glucose-adapted CEN.PK546-12B strain (CEN.PK546-AHG, where AHG is a designation
+	for adapted to high glucose; see Results) was inoculated in shake flasks with
+	double-strength MMU medium supplemented with 400 g of ⫺1  glucose · liter  .
+	After 4 days of incubation, 150 ml of this culture was transferred to a 2-liter
+	laboratory fermentor (Applikon, Schiedam, The Netherlands). The fermentor was
+	previously autoclaved (20 min at 110°C) while containing 1.2 liters of
+	demineralized water with 600 g of glucose and 100 ␮l of silicone antifoam
+	(BDH). Together with the inoculum, 45 ml of a solution containing 9 g of urea
+	and 100 ml of 30-fold concentrated MM medium (MMU without urea) was added. This
+	yielded an initial culture volume of 1.5 liters consisting of double⫺1
+	strength MMU medium and an initial glucose concentration of 400 g·liter
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:19
+
+
+	> a  Growth of the reference strain S. cerevisiae CEN.PK113-7D and the isogenic
+	tpi1⌬ nde1⌬ nde2⌬ gut2⌬ mutant CEN.PK546-12B.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> CEN PK113-7D (TPI1 NDE1 NDE2 GUT2) CEN.PK546-12B (tpi1⌬ nde1⌬ nde2⌬ gut2⌬)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Strain (relevant genotype)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> The biomass yield of the tpi1⌬ nde1⌬ nde2⌬ gut2⌬ strain was more than twofold
+	lower than the reference strain during growth at a dilution rate of 0.05 h  ⫺1
+	(Table 4). This was partly due to the conversion of glucose into glycerol. The
+	molar yield of glycerol on glucose was 0.83 ⫺1  mol · mol 1  .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Biomass yield (g·g glucose  ⫺1  ) 0.47 ⫾ 0.01 0.20 ⫾ 0.02
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Glycerol yield (mol·mol glucose  ⫺1  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Glycerol yield (mol·mol glucose  ⫺1  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> ⬍0.01 0.83 ⫾ 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> qO2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> 1.3 ⫾ 0.1 2.2 ⫾ 0.2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Production of glycerol by engineered S. cerevisiae. Glycerol production by S.
+	cerevisiae CEN.PK546-AHG was investigated ⫺1  in aerated batch cultures with
+	400 g of glucose · liter 1  , which were inoculated from glucose-grown shake
+	flasks at 0.3 g (dry ⫺1  weight) · liter . Despite the high initial glucose
+	concentration, these batch cultures exhibited exponential growth (␮ ⫽ 0.027 ⫺1
+	h 1  ). The slow growth was accompanied by the accumulation ⫺1  of glycerol to
+	a final concentration of over 200 g · liter (data not shown). Glycerol was the
+	major fermentation product. Concentrations of acetate and ethanol remained
+	below 1.5 and ⫺1  4 g · liter , respectively, and were completely consumed
+	towards the end of fermentation (data not shown). Throughout the fermentation
+	process, the glycerol yield on glucose was 1.0 ⫺1  mol · mol 1  . Due to the
+	low initial biomass concentration and the long start-up period, the overall
+	glycerol production rate ⫺1  was 1.0 g glycerol · liter 1  ⫺1  ·h 1  . When the
+	experiment was re⫺1  peated with an initial biomass dry weight of 3.9 g · liter
+	(Fig. 4A), all glucose was consumed in 80 h and the final concen⫺1  tration of
+	glycerol was 219 g · liter  . . The molar ratio of glyc⫺1  erol produced per
+	glucose consumed was 0.99 mol · mol (Fig. 4B), and the overall glycerol
+	production rate was 2.4 g ⫺1  glycerol · liter ⫺1  ·h  . 1  . Glycerol
+	consumption did not occur, even after glucose depletion. Most wild-type S.
+	cerevisiae strains can consume glycerol, although it is a very poor carbon and
+	energy source (43, 49).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> qCO2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> 1.4 ⫾ 0.1 2.7 ⫾ 0.3
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> Carbon recovery
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20
+
+
+	> (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:20

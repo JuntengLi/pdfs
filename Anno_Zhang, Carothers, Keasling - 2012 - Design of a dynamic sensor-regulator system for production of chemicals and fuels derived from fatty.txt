@@ -1,0 +1,67 @@
+
+
+--------------------------------------------------------------------------------
+# Design of a dynamic sensor-regulator system for production of chemicals and fuels derived from fatty acids
+
+	> Design of a dynamic sensor-regulator system for production of chemicals and
+	fuels derived from fatty acids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> Here we developed a dynamic sensor-regulator system (DSRS) to produce fatty acid
+	--based products in Escherichia coli, and demonstrated its use for biodiesel
+	production.  ...... This DSRS substantially improved the stability of
+	biodiesel-producing strains and increased the titer to 1.5 g/l and the yield
+	threefold to 28% of the theoretical maximum
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> These strains produced threefold higher titers of FAEE compared to that produced
+	by the previously engineered A2A strain, reaching 1.5 g/l after 3 d incubation,
+	corresponding to 28% of the maximum theoretical yield.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> theoretical yield.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> To determine if the DSRS increased product yields because of the improved
+	metabolic balance, we performed metabolite analysis on five strains using
+	either PlacUV5 or the biosensor-derived promoters to control the expression of
+	genes in the ethanol pathway (Supplementary Table 1). When PlacUV5 was used,
+	ethanol accumulated to 4.3 g/l at 24 h but decreased dramatically afterwards
+	(Fig. 4a). In contrast, the biosensor-derived promoters produced ethanol more
+	consistently. Less ethanol accumulated at 24 h and the ethanol productivity
+	remained nearly constant during 3 d of production. Furthermore, strains using
+	biosensor-derived promoters produced less acetate than the strain that harbored
+	PlacUV5, suggesting that central metabolism was balanced better with the
+	biosensor-derived promoters (Fig. 4b). In addition, we characterized the time-
+	dependent behavior of a dynamic promoter, PFL3, in the best FAEE-producing
+	strain W and compared it to that of the inducible promoter PlacUV5 in strain X
+	(Fig. 4c). Under our production conditions, PFL3 turned on more quickly and
+	dynamically adjusted itself to remain induced at the desired level, resulting
+	in higher FAEE titer.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> to remain induced at the desired level, resulting in higher FAEE titer.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08

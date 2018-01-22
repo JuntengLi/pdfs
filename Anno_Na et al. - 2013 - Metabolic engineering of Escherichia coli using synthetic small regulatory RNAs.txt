@@ -1,0 +1,51 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs
+
+	> Metabolic engineering of Escherichia coli using synthetic small regulatory RNAs
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> We designed synthetic sRNAs to identify and modulate the expression of target
+	genes for metabolic  ...... engineering in Escherichia coli  ...... we isolated
+	an engineered E. coli strain (tyrR- and csrA-repressed S17-1) capable of
+	producing 2 g per liter of tyrosine. Using a library of 130 synthetic sRNAs, we
+	also identified chromosomal gene targets that enabled substantial increases in
+	cadaverine production. Repression of murE led to a 55% increase in cadaverine
+	production compared to the reported engineered strain (XQ56 harboring the
+	plasmid  1 p15CadA)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> the sRNA combinations, anti-tyrR and anti-csrA in S17-1 produced the highest
+	tyrosine titer (2.0 g per liter) compared with other strains, which produced 0
+	--1.3 g tyrosine per liter
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> both of which are not present in the main cadaverine biosynthetic pathways,
+	increased cadaverine titers by 40.2% and 31.4%, respectively.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:57
+
+
+	> High-cell-density cultivation of the engineered strain expressing the most
+	effective anti-murE sRNA variant led to the production of 12.6 g cadaverine per
+	liter, which is 31% higher than that obtained with starting strain XQ56
+	harboring p15CadA (9.6 g per liter)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:57

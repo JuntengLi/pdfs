@@ -1,0 +1,416 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of Escherichia coli strains for co-production of hydrogen and ethanol from glucose
+
+	> Metabolic engineering of Escherichia coli strains for co-production of hydrogen
+	and ethanol from glucose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> The co-production of H2 and ethanol from glucose was studied to address the low
+	H2 production yield in dark fermentation. Several mutant strains devoid of
+	ackA-pta, pfkA or pgi were developed using Escherichia coli BW25113 DhycA
+	DhyaAB DhybBC DldhA DfrdAB as base strain. Disruption of ackA-pta eliminated
+	acetate production during glucose fermentation but resulted in the secretion of
+	a significant amount of pyruvate (0.73 mol mol  1 glucose) without improving
+	the co-production of H2 and ethanol.  ...... The production yields of 1  the
+	DpfkA strain (H2, 1.03 mol mol  1  glucose and ethanol, 1.04 mol mol  glucose)
+	were higher than those of the pfkA  þ  1  strain (H2, 0.69 mol mol  glucose
+	and ethanol, 0.95 mol mol  1  glucose), but pyruvate excretion was not
+	reduced.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Materials and methods
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Construction of recombinant E. coli strains and adaptive evolution
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> The bacterial strains and plasmids used in this study are presented in Table 1.
+	...... The strain SH8AE, exhibiting higher growth rates, was obtained by
+	adaptive evolution of SH8 1  strain in fortified M9 media containing 5 g L  1
+	glucose and 3 g L
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Luria Bertani medium was used for regular genetic engineering 1  and culture
+	maintenance work. Kanamycin at 50 mg mL , 1  1  ampicillin at 100 mg mL , and
+	chloramphenicol at 25 mg mL were added to the culture media when necessary. E.
+	coli strains 1  were cultured in a modified M9 medium containing 5 g L 1
+	glucose, 0.3 or 3.0 g L  1  yeast extract, 3.0 g L  1  Na2HPO4, 1.5 g L 1
+	KH2PO4, 0.5 g L  1  NH4Cl, 0.25 g L  NaCl, 1 mM MgSO4, 0.1 mM 1  CaCl2 and 2
+	mL L  trace element solution. The culture medium was maintained at pH 7.0 ± 0.2
+	and the trace element solution contained the following components (per liter):
+	FeSO4∙7H2O, 0.21 g; ZnSO4∙7H2O, 50 mg; MnCl2∙4H2O, 50 mg; H3BO3, 15 mg;
+	CoCl2∙6H2O, 100 mg; CuSO4∙5H2O, 6.7 mg; NiCl2∙6H2O, 10 mg; Na2SeO3, 5.0 mg; and
+	Na2MoO4∙2H2O, 15 mg.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> The base strain SH5 consumed all of the glucose in 12 h and produced H2 and
+	ethanol with the yields of 1.42 ± 0.03 and 1  1  0.84 ± 0.02 mol mol ,
+	respectively. Acetate of 0.73 mol mol 1  and formate of 0.12 mol mol  were
+	also produced. SH6 did not produce acetate because it lacks the ackA-pta gene.
+	On the other  hand,  the  ethanol  production  increased  to 1  0.95 ± 0.02
+	mol mol  (which is higher than that of SH5 by 10%) 1  and the H2 production
+	decreased to 0.69 ± 0.03 mol mol . One significant change by the ackA-pta
+	deletion was the large 1  excretion of pyruvate (0.73 ± 0.02 mol mol ).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> other  hand,  the  ethanol  production  increased  to
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Table 2 e Comparison of metabolite yields, carbon distribution and reduction
+	degree balance.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> H2 and ethanol with the yields of 1.42 ± 0.03 and 1  1  0.84 ± 0.02 mol mol ,
+	respectively. Acetate of 0.73 mol mol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Yield (mol/mol glucose)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> H2 Ethanol Acetate Pyruvate Formate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> other  hand,  the  ethanol  production  increased  to
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Carbon distribution (%)  a
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Pyruvate Ethanol Acetate Formate Biomass CO2 Recovery (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Reduction degree balance Reactant
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> other  hand,  the  ethanol  production  increased  to
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Glucose or sorbitol 24
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Product
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> (Glucose) (Glucose)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Pyruvate Ethanol Acetate Formate Cell mass H2 CO2 Total Errors (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> SH5
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 1.42 ± 0.03 0.69 ± 0.03 1.03 ± 0.02 1.25 ± 0.03 0.84 ± 0.02 0.95 ± 0.02 1.04 ±
+	0.05 1.49 ± 0.06 0.73 ± 0.02 0.02 ± 0.05 0.04 ± 0.00 0.05 ± 0.00 0.02 ± 0.00
+	0.73 ± 0.02 0.74 ± 0.04 0.24 ± 0.01 0.12 ± 0.05 0.19 ± 0.05 0.11 ± 0.01 0.25 ±
+	0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 3.07  ...... 9.31  ...... 3.15  ...... 5.17
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 1.07 28.58 24.86 2.09 18.39 24.23 99.22
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> The strain SH8AE, constructed for the improved supply of NAD(P)H by diverting
+	carbon flow from the  EMP  pathway  to  the  PPP,  produced  more  H2 1  1
+	(1.03 ± 0.02 mol mol ) and ethanol (1.04 ± 0.05 mol mol ) compared to SH6
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> (Glucose) (Glucose)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> other  hand,  the  ethanol  production  increased  to
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> SH6
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 37.67 31.25 2.45 2.47 8.74 11.50 94.10
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 0.17 10.28 5.97 0.25 4.49 2.10
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> (Glucose)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> SH8AE
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 23.26 3.07
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 24
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 39.17 34.64 1.47 1.80 8.15 17.25 101.44
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 6.15 11.26 0.59 0.30 2.13 1.38
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> (Sorbitol)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> SH8AE
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 21.81 9.31
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> the  EMP  pathway  to  the  PPP,  produced  more  H2 1  1  (1.03 ± 0.02 mol
+	mol ) and ethanol (1.04 ± 0.05 mol mol )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 24
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 11.31 51.60 1.68 4.22 5.96 19.79 94.56
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 6.27 12.47 0.35 0.09 1.99 2.07
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 23.24 3.15
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 26
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 1.92 17.88 0.40 0.50 1.46 2.50
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> To examine the effect of the NAD(P)H supply, coproduction experiment was carried
+	out with sorbitol as carbon source (Table 2). Sorbitol is more reduced than
+	glucose, and produces 1 more NADH than glucose when converted to pyruvate. With
+	sorbitol as a carbon source, the cell growth rate and the carbon consumption
+	rate were reduced, and some of sorbitol was detected in the media even after 24
+	h of cultivation (data not shown). However, the ethanol and H2 yields 1  were
+	greatly increased to 1.49 ± 0.06 and 1.25 ± 0.03 mol mol , respectively (Table
+	2). In addition, pyruvate was considerably 1  reduced to 0.24 ± 0.01 from 0.74
+	± 0.04 mol mol . These results suggest that the deletion of pfkA could not
+	fully divert glucose metabolism from the EMP pathway to the PPP, and not enough
+	reducing power for the ethanol production was generated in SH8AE.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> 24.26 5.17
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> To examine the effect of the NAD(P)H supply, co-
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00

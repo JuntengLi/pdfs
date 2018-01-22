@@ -1,0 +1,88 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production
+
+	> Metabolic engineering of Saccharomyces cerevisiae for itaconic acid production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:10
+
+
+	> Here, we utilize Saccharomyces cerevisiae to enable the synthesis of itaconic
+	acid, a molecule with diverse applications as a petrochemical replacement
+	...... Finally, we establish a higher cell density fermentation that ultimately
+	achieves itaconic acid titer of 168 mg/L, a sevenfold improvement over initial
+	conditions.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:10
+
+
+	> Strains and media
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Yeast expression vectors were propagated in Escherichia coli DH10B. E. coli
+	DH10B was routinely cultivated in LB Media Broth (Teknova) supplemented with 50
+	μg/ml ampicillin for plasmid propagation at 37 °C with constant shaking. All
+	yeast strains originated from S. cerevisiae BY4741 (MATa; his3Δ1; leu2Δ0;
+	met15Δ0; ura3Δ0) obtained from EUROSCARF, Frankfurt, Germany. Yeast strains
+	were routinely cultivated at 30 °C with constant agitation in yeast synthetic
+	complete (YSC) media, containing 20 g/L glucose (Fisher Scientific), 0.67 g/L
+	yeast nitrogen base (Becton, Dickinson, and Company), and a Complete Supplement
+	Mixture (CSM) amino acid dropout supplement (MP Biomedicals). YSC-URA, YSC-URA-
+	LEU, and YSC-URA-LEU-HIS contained 0.77 g/ L CSM-Uracil, 0.67 g/L CSM-Uracil-
+	Leucine, and 0.65 g/L CSM-Uracil-Leucine-Histidine, respectively. To induce
+	expression of a Cre-Recombinase gene, yeast strains were cultivated in a media
+	similar to YSC-URA called YSC-URA-gal that contained 20 g/L galactose (Fisher
+	Scientific) instead of glucose. Yeast strains were cultivated in yeast extract
+	peptone dextrose (YPD) prior to transformations. YPD media contained 40 g/L
+	glucose, 40 g/L peptone (Fisher Scientific), and 20 g/L yeast extract (Fisher
+	Scientific). Solid media for E. coli and S. cerevisiae were prepared by adding
+	20 g/L agar (Teknova) to liquid media. YSC media and YPD plates were
+	supplemented with 200 μg/mL G418 as needed.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> TCA enzymatic overexpression fails to improve itaconic acid titer. a Citrate
+	synthase (CIT1 or CIT2) and pyruvate carboxylase (PYC1 or PYC2) enzymes (Fig.
+	1a) were co-overexpressed with the CAD enzyme but failed to increase itaconic
+	acid titer compared to control (only CAD expression). b Similarly, citrate
+	synthase (CIT1) and aconitase (ACO1) enzymes (Fig. 1a) failed to increase
+	itaconic acid titer. Error bars represent standard deviation from biological
+	triplicates
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:05
+
+
+	> Higher cell density fermentation improves itaconic acid production. a
+	Fermentations beginning at an initial OD600 =6.0 increased itaconic acid titer
+	for wild-type, Δade3 Δbna2, and Δade3 Δbna2 Δtes1 strains (containing the
+	Enhanced-PGDP-CAD expression cassette). The Δade3 Δbna2 Δtes1 background
+	produced 168 mg/L itaconic acid, a more than sevenfold improvement over our
+	initial strain and conditions. Error bars represent standard deviation from
+	biological triplicates
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> However, the sequential Δade3, Δbna2, and Δtes1 deletions resulted in successful
+	improvement of itaconic acid titer to 168 mg/L, a sevenfold improvement over
+	initial conditions.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09

@@ -1,0 +1,515 @@
+
+
+--------------------------------------------------------------------------------
+# Activating transhydrogenase and NAD kinase in combination for improving isobutanol production
+
+	> Activating transhydrogenase and NAD kinase in combination for improving
+	isobutanol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Two strategies were used to modulate expression of transhydrogenase (pntAB) and
+	NAD kinase (yfjB) genes to increase NADPH supply for improving isobutanol
+	production. Plasmid overexpression of pntAB and yfjB genes either individually
+	or in combination had little effect on isobutanol production.  ......
+	Modulating pntAB gene alone led to 20% and 8% increase of anaerobic isobutanol
+	titer and yield. Although modulating yfjB gene alone had nearly no effect,
+	modulating pntAB and yfjB genes in combination led to 50% and 30% increase of
+	isobutanol titer and yield in comparison with modulating pntAB gene alone. It
+	was also found that increasing pntAB gene expression alone had a threshold for
+	improving anaerobic isobutanol production, while activating NAD kinase could
+	break through this threshold, leading to a yield of 0.92 mol/mo  ...... This
+	strategy will be useful for improving production of target compounds using
+	NADPH as reducing equivalent within their synthetic pathways. In addition,
+	combined activation of PntAB and YfjB led to 28% and 22% increase of aerobic
+	isobutanol titer and yield, resulting in production of 10.8 g/L isobutanol in
+	24 h with a yield of 0.62 mol/mol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Materials and methods
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> 2.1. Strains, media, and growth conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> Strains used in this study were listed in Table 1. During strain construction,
+	cultures were grown aerobically at 30 1C, 37 1C, or 39 1C in Luria broth (per
+	liter: 10 g Difco tryptone, 5 g Difco yeast extract. and 10 g NaCl) containing
+	20 g glucose/L. Ampicillin (100 mg L  1  ), kanamycin (25 mg L  1  ), and
+	chloramphenicol (17 mg L  1  ) were used where appropriate.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> and 10 g NaCl) containing 20 g glucose/L. Ampicillin (100 mg L  1  ), kanamycin
+	(25 mg L  1  ), and chloramphenicol (17 mg L  1  ) were used
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:55
+
+
+	> 2.5. Fermentation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Single colonies were picked from plates and inoculated into 250 ml flasks
+	containing 50 ml NBS (New Brunswick Scientific) mineral salts medium (Zhang et
+	al., 2009b) with 5% glucose, and grown at 37 1C and 200 rpm for 12 h. For
+	aerobic fermentation, seed culture was inoculated into 250 mL flasks containing
+	50 mL NBS medium with 5% glucose and 100 mM MOPS, and grown at 37 1C and 250
+	rpm for 24 h. For anaerobic fermentation, seed culture was inoculated into 100
+	mL screw cap bottles containing 50 mL NBS medium with 5% glucose and 100 mM
+	MOPS, and grown at 37 1C without shaking for 6 days. For cultivating in rich
+	medium, 10 g/L yeast extract was added into the NBS medium. For a two-stage
+	fermentation process, strains were first cultivated aerobically in NBS medium
+	to an OD550 of 3.0--5.0, and then shifting to anaerobic conditions by flushing
+	with oxygen-free atmosphere in a 100 mL screw cap bottles. The cultures were
+	then incubated without shaking at 37 1C, and were swirled twice a day. Samples
+	were taken at the time of the anaerobic shift and 24 h after induction. For
+	each strain, three independent fermentations were performed
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> This strain produced 3.7 mM isobutanol with a yield of 0.04 mol/mol under
+	aerobic condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> and produced 2.5 mM isobutanol with a yield of 0.07 mol/mol under anaerobic
+	condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> In order to improve isobutanol production, the expression of kivD-ilvD operon
+	was modulated with a previously constructed regulatory part M1-93. The
+	resulting strain AS29 produced 3.0 mM isobutanol with a yield of 0.04 mol/mol
+	under aerobic condition, and produced 4.8 mM isobutanol with a yield of 0.13
+	mol/mol under anaerobic condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> The resulting strain AS74 produced 2.6 mM isobutanol with a yield of 0.04
+	mol/mol under aerobic condition, and produced 4.9 mM isobutanol with a yield of
+	0.18 mol/mol under anaerobic condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> This strain produced 48 mM isobutanol with a yield of 0.34 mol/mol under aerobic
+	condition, and produced 25 mM isobutanol with a yield of 0.52 mol/mol under
+	anaerobic condition (Fig. 2). Both titer and yield increased significantly
+	after utilizing AlsS, suggesting that conversion of pyruvate to acetolactate
+	was the rate-limiting step for isobutanol synthesis. In order to further
+	increase AHAS activity, a second copy of alsS gene together with regulatory
+	part M1-64 were integrated into AS77 at ldhA site, resulting in strain AS105
+	(Table 1). This strain produced 65 mM isobutanol with a yield of 0.41 mol/mol
+	under aerobic condition, and produced 26 mM isobutanol with a yield of 0.66
+	mol/mol under anaerobic condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> was integrated into AS105 at mgsA site followed by modulation of its expression
+	with 4 regulatory parts (M1-93, M1-37, M1-46 and M1-30), resulting in strains
+	AS106 to AS109 (Table 1). AS108, having ilvC gene modulated with M1-46, had the
+	highest isobutanol titer among all modulated strains. This strain produced 114
+	mM isobutanol with a yield of 0.51 mol/mol under aerobic condition, and
+	produced 35 mM isobutanol with a yield of 0.66 mol/mol under anaerobic
+	condition
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Strain  a
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Plasmid expression AS108  ......   AS108  ......  AS108  ......  AS108
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Chromosome modulation AS108  ......  Modulation of pntAB  ......  AS142  ......
+	AS143  ......   AS144  ......   AS145  ......  Modulation of yfjB  AS147
+	...... 0.53  AS148  ...... 0.54  AS149  ...... 0.52 Combinatorial modulation of
+	pntAB and yfjB genes  AS165  ...... 0.75  AS166  ...... 0.72  AS167  ...... 0.7
+	AS172  ...... 0.69  AS173  ...... 0.68  AS174  ...... 0.69
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Genetic modification
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> pACYC184M  ...... pACYC184M-pntAB pACYC184M-yfjB pACYC184-yfjB-pntAB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> M1-93-pntAB M1-37-pntAB M1-46-pntAB M1-30-pntAB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> M1-37-yfjB M1-46-yfjB M1-30-yfjB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> M1-93-pntAB, M1-37-yfjB M1-93-pntAB, M1-46-yfjB M1-93-pntAB, M1-30-yfjB
+	M1-30-pntAB, M1-37-yfjB M1-30-pntAB, M1-46-yfjB M1-30-pntAB, M1-30-yfjB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> OD550
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.36 0.3 0.36 0.27
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.5
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.63 0.55 0.4 0.51
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Glucose used (mM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 417 4  267 1 337 1  227 1 367 3  257 0 377 3  227 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 537 3  357 2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 587 0  407 1 597 2  417 1 377 3  237 2 597 1  427 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 497 1  347 1 517 1  367 1 457 3  347 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 767 3  627 1 687 1  637 1 807 2  667 1 717 2  447 0 757 1  507 1 697 4  447 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Titer (mM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 417 4  267 1 337 1  227 1 367 3  257 0 377 3  227 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 537 3  357 2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 587 0  407 1 597 2  417 1 377 3  237 2 597 1  427 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 497 1  347 1 517 1  367 1 457 3  347 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Improvement  b
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 767 3  627 1 687 1  637 1 807 2  667 1 717 2  447 0 757 1  507 1 697 4  447 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 1  0.15  0.04  0.15
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.14 0.17  0.34 0.2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	>  0.03 0.03  0.03
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Yield (mol/mol)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.77 0.8 0.89 0.26 0.43 0.26
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.637 0.01 0.667 0.02 0.707 0.02 0.607 0.03
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.667 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.697 0.00 0.697 0.01 0.627 0.01 0.717 0.00
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.707 0.01 0.707 0.01 0.767 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.827 0.00 0.927 0.00 0.837 0.00 0.627 0.01 0.677 0.01 0.647 0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Improvement  b
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 1 0.05 0.12  0.09
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.05 0.05  0.06 0.08
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.06 0.06 0.15
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> 0.24 0.39 0.26  0.06 0.02  0.03
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> The pntAB gene of strain AS108 was modulated with 4 regulatory parts (M1-93,
+	M1-37, M1-46 and M1-30), resulting in strains AS142 to AS145 (Table 1). Under
+	anaerobic condition, similar improvement of isobutanol titer (14% to 20%) and
+	yield (5% and 8%) were obtained in all modulated strains except AS144 which was
+	modulated with M1-46 (Table 2). Titer and yield decreased 34% and 6% in strain
+	AS144. The pntAB gene expression levels of the modulated strains were compared
+	with parent strain AS108 through RT-PCR analysis. M1-93 led to the biggest
+	increase of expression level (40-fold). M1-37 and M1-30 led to 25-fold
+	increase, while M1-46 led to the smallest increase of expression level
+	(20-fold) (Fig. 5A).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Under aerobic condition, isobutanol titer and yield decreased in all modulated
+	strains except AS144 (Table 3). Titer and yield increased 21% and 14% in strain
+	AS144. M1-46 led to the biggest increase of expression level (450-fold), while
+	other regulatory parts led to 70 to 150-fold increase
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> In order to investigate the effect of different fermentation processes on
+	isobutanol production, a two-stage process as described previously (Bastian et
+	al., 2011) was used to cultivate AS166 for isobutanol production. This strain
+	produced 75 mM isobutanol in 24 h. Productivity and yield were 0.07 g/L h OD600
+	and 1.09 mol/mol, which were 46% and 18% higher than using one-step anaerobic
+	process, respectively
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:50
+
+
+	> Our work demonstrated that increasing PntAB activity alone had a threshold for
+	improving anaerobic isobutanol production, while combination of PntAB and YfjB
+	had a synergistic effect on improving anaerobic isobutanol production, leading
+	to a yield of 0.92 mol/mol. Activating PntAB and YfjB also increased aerobic
+	isobutanol titer and yield by 28% and 22%, leading to production of 10.8 g/L
+	isobutanol in 24 h with a yield of 0.62 mol/mol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05

@@ -1,0 +1,251 @@
+
+
+--------------------------------------------------------------------------------
+# Production of farnesene and santalene by Saccharomyces cerevisiae using fed-batch cultivations with RQ-controlled feed
+
+	> Production of Farnesene and Santalene by Saccharomyces cerevisiae Using Fed-
+	Batch Cultivations With RQ-Controlled Feed
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Using farnesene as a case study, we chose three terpene synthases with distinct
+	plant origins and compared their applicability for farnesene production in the
+	yeast S. cerevisiae. Differences regarding the efficiencyof these enzymeswere
+	observed in shake flask cultivation with maximal final titers of 4 mg/L using
+	a-farnesene synthase from Malus domestica. By employing two existing platform
+	strains optimized for sesquiterpene production, final titers could be raised up
+	170 mg/L in fed-batch fermentations with RQ-controlled exponential feeding.
+	Based on these experiments, the difference between the selected synthases was
+	not significant. Lastly, the same fermentation setup was used to compare these
+	results to production of the fragrance sesquiterpene santalene, and almost
+	equivalent titers were obtained with 163 mg/L, using the highest producing
+	strain expressing a santalene synthase from Clausena lansium. However, a
+	reduction of the product yield on biomass by 50% could indicate a higher
+	catalytic efficiency of the farnesene synthase.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Growth Media
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> All batch cultivations in shake flasks and bioreactors were performed using
+	minimal media as described by Verduyn et al. (1992) containing 20 g/L glucose,
+	5 g/L (NH4)2SO4, 3 g/L KH2PO4, 0.5 g/L MgSO4  7H2O, 1 mL/L trace element
+	solution and 50 mL/L antifoam. The medium was adjusted to pH 5 using 2 M KOH
+	and 1 mL/L vitamin solution was added after sterilization. The feed medium for
+	fed-batch cultivations was ten times concentrated and contained 200 g/L
+	glucose.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Shake Flask Cultivations
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Strains were grown on plates containing selective growth medium at   30 C. A
+	single colony was used to inoculate 5 mL of minimal  ......   medium, which
+	was incubated overnight at 30 C and 200 rpm.  ...... Subsequently, 100 mL shake
+	flasks without baffles containing 18 mL of liquid medium were inoculated at an
+	OD600 of 0.1 and an  ...... extractive dodecane overlay (99%, Sigma--Aldrich,
+	St. Louis, MO) was added at 10% v/v to sequester farnesene. Shake flasks were 
+	incubated at 30 C and 160 rpm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Strains were grown on plates containing selective growth medium at   30 C. A
+	single colony was used to inoculate 5 mL of minimal
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Bioreactor Cultivations
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Similar to the shake flask cultivations described above, a single colony from a
+	fresh plate containing selective medium was used to inoculate 5 mL minimal
+	medium and incubated overnight at   30 C and 200 rpm. Cells were then
+	transferred to 50 mL of liquid medium in 500 mL shake flasks and cultivated
+	overnight at   30 C and 160 rpm. Subsequently, the preculture was harvested by
+	centrifugation at 4000 rpm for 5 min and resuspended in 10 mL of fresh medium.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> inoculate 5 mL minimal medium and incubated overnight at   30 C and 200 rpm.
+	Cells were then transferred to 50 mL of liquid
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> medium in 500 mL shake flasks and cultivated overnight at   30 C and 160 rpm.
+	Subsequently, the preculture was harvested by
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> was added at 10% v/v to sequester farnesene. Shake flasks were   incubated at
+	30 C and 160 rpm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	>   incubated at 30 C and 160 rpm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	>   30 C. A single colony was used to inoculate 5 mL of minimal   medium, which
+	was incubated overnight at 30 C and 200 rpm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Production of farnesene in fed-batch cultivations with RQ-controlled exponential
+	feeding. Background S. cerevisiae strains CEN.PK113-5D, SCICK16 and SCIGS22
+	were transformed with plasmids pIST04-06 carrying a farnesene synthase gene
+	from M. domestica, C. junos or A. annua and HMG-CoA reductase gene tHMG1,
+	resulting in strains SCIST04-12. The background strains carry the following
+	modifications: PHXT1-ERG9, dpp1D, lpp1D (SCIST07-09) and PHXT1-ERG9, dpp1D,
+	lpp1D, ERG20", GDH2", gdh1D (SCIST10-- 12). Data were obtained during the feed
+	phase and represent average values of two or three independent biological
+	replicates. Squares: biomass, diamonds: glucose, triangles: ethanol, circles:
+	farnesene.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:07
+
+
+	> Physiological parameters of farnesene producing strains SCIST04-12 during fed-
+	batch cultivations with RQ-controlled exponential feed. m: specific growth
+	rate, rS: specific substrate uptake rate, YSX: biomass yield, YXFar: farnesene
+	yield and RQ: respiratory quotient.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> Background strain  Farnesene synthase
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> ...... rS g/(gDCW  h)   ......   ...... 0.149  0.003    ......   ...... 0.163
+	 0.016    ......   ...... 0.170  0.010    ......   ...... 0.172  0.017
+	......   ...... 0.122  0.007    ......   ...... 0.146  0.033    ......
+	...... 0.193  0.001    ......   ...... 0.221  0.003    ...... 0.034  0.000
+	...... 0.199  0.021   ...... Values represent mean  standard deviation of two
+	or three biological replicates.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> SCIST04 SCIST05 SCIST06 SCIST07 SCIST08 SCIST09 SCIST10 SCIST11 SCIST12
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> Background strain  Farnesene synthase
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> M. domestica C. junos A. annua M. domestica C. junos A. annua M. domestica C.
+	junos A. annua
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> 0.062  0.004 0.048  0.007 0.053  0.002 0.046  0.004 0.035  0.003 0.038 
+	0.005 0.043  0.001 0.032  0.001 0.034  0.000
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> 1  mh
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:03
+
+
+	> Production of Santalene in Fed-Batch Cultivations With RQ-Controlled Exponential
+	Feed
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:04
+
+
+	> Santalene is another commercially interesting sesquiterpene, which is directly
+	produced from FPP by a specific plant terpene synthase. In order to evaluate
+	the efficiency of the farnesene synthases in comparison to another
+	sesquiterpene synthase, a similar RQ-controlled fed-batch fermentation with
+	strain SCIGS24 was performed (Scalcinati et al., 2012b). This strain is
+	identical to SCIST10-12 regarding its genetic background and only differs by
+	carrying plasmid pISP15, which contains a codon optimized santalene synthase
+	from Clausena lansium (see Table II). Similar to the fed-batch cultivations
+	performed to investigate farnesene production, the feed was controlled using
+	the RQ, which was maintained at 0.98 on average throughout the experiment.
+	However, as the batch phase medium contained 30 g/L glucose, higher biomass
+	concentrations were attained overall reaching up to 25 gDCW/L (Fig. 6). This is
+	also indicated by the biomass yield of 0.281 gDCW/g, which was significantly
+	higher. However, the product yield of 0.006 g/gDCW amounts only to half
+	compared to the one observed for the farnesene synthases. Considering the
+	production of santalene, with 163 mg/L of a-santalene after approximately 30 h
+	of feeding time, final titers were almost equivalent to cultivations using
+	strains SCIST10-12.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:04

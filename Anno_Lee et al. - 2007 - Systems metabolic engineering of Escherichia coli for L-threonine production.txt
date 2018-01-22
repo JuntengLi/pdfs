@@ -1,0 +1,174 @@
+
+
+--------------------------------------------------------------------------------
+# Systems metabolic engineering of Escherichia coli for L-threonine production
+
+	> Systems metabolic engineering of Escherichia coli for L-threonine  production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:57
+
+
+	> Here, we report the development of the genetically defined L-threonine
+	overproducing Escherichia coli strain by systems metabolic engineering  ......
+	The final engineered E. coli strain was able to produce Thr with a high yield
+	of 0.393 g per gram of glucose, and 82.4 g/l Thr by fed-batch culture.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:57
+
+
+	> We first constructed a Thr-producing E. coli base strain from WL3110, a lacI-
+	mutant strain of W3110, using the metabolic and regulatory information
+	available in the literature
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:50
+
+
+	> When recombinant TH07 (pBRThrABC) strain was flask cultured in TPM1 medium
+	containing 50 g/l glucose for 48 h, the final Thr concentration of 10.1 g/l (a
+	yield of 0.202 g Thr per gram of glucose) was obtained
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> To our surprise, however, Thr production was rather decreased by 17.1% compared
+	to the control strain TH07 (pBRThrABC, pACYC177). When the ppcdeleted strain
+	TH11C (pBRThrABC, pACYC177) was cultured under the same condition, Thr
+	production significantly decreased by 87%, which suggested that PPC is
+	necessary for Thr production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> Batch culture of TH09C (pBRThrABC) resulted in the production of 1.93 g/l Thr (a
+	yield of 0.186 g Thr per gram of glucose), which is 30.4% higher  than  that
+	obtained  with  the  control  TH07C (pBRThrABC) strain (  ...... Batch culture
+	of TH20C (pBRThrABC) resulted in the production of 2.24 g/l Thr (a yield of
+	0.213 g Thr per gram of glucose), which is 51.4% higher than that obtained with
+	the control TH07 (pBRThrABC) strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> higher  than  that  obtained  with  the  control  TH07C
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> When the resulting TH27C (pBRThrABC) strain was batch cultured in TPM2 medium
+	containing 30 g/l glucose, 7.4 g/l of Thr (a yield of 0.246 g Thr per gram of
+	glucose) was produced. This is 15.6% higher than that obtained with TH20C
+	(pBRThrABC) under the same culture condition.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> Batch culture of this strain in TPM2 medium containing 30 g/l glucose resulted
+	in the production of 11.1 g/l Thr (a yield of 0.370 g Thr per gram of glucose),
+	which is 50.2% higher than that obtained without rhtC amplification
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:48
+
+
+	> 3) allowed production of 11.8 g/l Thr with a high yield of 0.393 g Thr per gram
+	of glucose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> We thus performed fed-batch culture of TH27C (pBRThrABCR3) strain with
+	intermittent glucose feeding (see Materials and methods), which allowed
+	production of 77.1 g/l Thr in 56.1 h, resulting in a volumetric Thr
+	productivity of 1.37 g/l/h
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> The final Thr concentration reached 82.4 g/l in 50 h, with a volumetric
+	productivity of 1.65 g/l/h (Supplementary Table III), which is 20.4% higher
+	than that obtained with TH27C (pBRThrABCR3) strain, and is comparable to a
+	value typically obtained with a randomly mutagenized industrial strain.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> The strains and plasmids constructed and used in this study and the primers used
+	for gene cloning are listed in Supplementary Table I. Detailed procedures for
+	the construction of plasmids are shown in Supplementary information and
+	Supplementary Figure 1.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:53
+
+
+	> Batch and fed-batch cultivation  ...... Batch and fed-batch cultures were
+	carried out using the TPM2 medium containing the indicated amount of glucose at
+	311C. The TPM2  ...... . O47medium contains the following per liter: yeast
+	extract, 2 g;  . MgSO47 H2O, 2 g; KH2PO4, 2 g; (NH4)2SO4, 10 g; L-methionine,
+	0.2 g; L-lysine, 0.2 g; L-isoleucine, 0.05 g; and trace metal solution, 10 ml.
+	Glucose was added to give the final concentration of 10 or 30 g/l depending on
+	the experiments described in the text. Chloramphenicol (35 mg/ml), kanamycin
+	(40 mg/ml), and ampicillin (50 mg/ml) were added to the medium when necessary.
+	Seed cultures were prepared by transferring 500 ml of 10 ml overnight cultures
+	prepared in Luria--Bertani (LB) medium into 250 ml Erlenmeyer flasks containing
+	50 ml LB medium and cultured at 311C with 250 r.p.m. Cultured cells were used
+	to inoculate the fermentor containing 2 l of TPM2 medium. Batch fermentations
+	were carried out in a 6.6-l Bioflo 3000 fermentor (New Brunswick Scientific
+	Co., Edison, NJ). The pH was controlled at 6.5 by automatic feeding of 25%
+	(v/v) NH4OH. The dissolved oxygen concentration was maintained above 40% of air
+	saturation by supplying air at 1 vvm (air volume/working volume/minute) and by
+	automatically controlling the agitation speed up to 1000 rpm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:53
+
+
+	> Fed-batch cultures were carried out in a 6.6-l Bioflo 3000 fermentor containing
+	2 l of TPM2 medium containing 20 g/l glucose at 311C. Feeding solution was made
+	of 500 g/l glucose, 12.5 g/l KH2PO4, 3 g/l L-methionine,  and 4.357 g/l
+	L-lysine. When the glucose concentration in the culture broth fell to 1 g/l, 80
+	ml of feeding solution (thus, equivalent to 40 g glucose, 1 g KH2PO4, 0.24 g
+	L-methionine, and 0.35 g L-lysine)  was added. The dissolved oxygen
+	concentration was controlled at 40% of air saturation by automatically
+	increasing the agitation speed up to 1000 r.p.m. and by changing the percentage
+	of pure oxygen added. The pH was controlled at 6.5 by automatic feeding of 25%
+	(v/v) NH4OH. The pH-stat fed-batch fermentation was carried out similarly. When
+	glucose becomes exhausted, the pH increases. When the pH becomes higher than
+	6.59, 6 ml of feeding solution
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:53
+
+
+	> composed of 565 g/l glucose, 12.9 g/l KH2PO4, 3.59 g/l L-methionine, and 5.27
+	g/l L-lysine was automatically added.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:53

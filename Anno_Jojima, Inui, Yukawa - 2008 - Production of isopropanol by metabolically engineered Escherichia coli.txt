@@ -1,0 +1,129 @@
+
+
+--------------------------------------------------------------------------------
+# Production of isopropanol by metabolically engineered Escherichia coli
+
+	> Production of isopropanol by metabolically engineered Escherichia coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:44
+
+
+	> A genetically engineered strain of Escherichia coli JM109 harboring the
+	isopropanol-producing pathway consisting of five genes encoding four enzymes,
+	thiolase, coenzyme A (CoA) transferase, acetoacetate decarboxylase from
+	Clostridium acetobutylicum ATCC 824, and primary-- secondary alcohol
+	dehydrogenase from C. beijerinckii NRRL B593, produced up to 227 mM of
+	isopropanol from glucose under aerobic fed-batch culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:44
+
+
+	> E. coli strain JM109 (Takara, Shiga, Japan) was grown in Luria--Bertani (LB)
+	medium. Antibiotics were included as appropriate at the following
+	concentrations: ampicillin, 50 μg/ml; chloramphenicol, 25 μg/ml. C.
+	beijerinckii NRRL B593 (synonym: DSM6423) was grown in reinforced clostridial
+	medium (BD Difco, NJ, USA) at 30°C in an anaerobic atmosphere (95% nitrogen and
+	5% hydrogen). After 24-h incubation, clostridial cell was harvested by
+	centrifugation (5,000×g, 10 min) and was used for genome extraction.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> E. coli was inoculated in LB medium (2.5 ml in a test tube) and grown overnight
+	at 30°C. The resulting culture was inoculated into a 500-ml baffled flask
+	containing 50 ml of a complex (SD8) medium (Luli and Strohl 1990). The culture
+	was incubated for isopropanol production in an agitation incubator (Tasaki
+	Scientific Instruments, Saitama, Japan) at 250 rpm and 37°C. Glucose was
+	occasionally supplemented to maintain glucose concentration more than 30 mM.
+	Data represent average values in triplicate experiments. Standard deviations
+	were within 5% of the mean.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:59
+
+
+	> Fermentation was conducted in a glucose fed-batch culture in a baffled flask.
+	Glucose was occasionally supplemented at concentrations ranging from 30 to 200
+	mM. After 36-h cultivation, 227±6 mM of isopropanol was detected in the culture
+	broth, and further incubation did not increase isopropanol concentration
+	...... No isopropanol and acetone were detected in a broth of the E. coli-
+	pCRC200 strain, indicating that the clostridial genes were actively expressed
+	in E. colipCRC202. Isopropanol yield was 51% after 36-h cultivation, and total
+	solvent yield (isopropanol plus acetone) was 61%. Maximum volumetric
+	productivity of isopropanol was 10.3 mmol·l ·h  under the conditions.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> After 48-h fed-batch culture, E. coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> 61%. Maximum volumetric productivity of isopropanol was 10.3 mmol·l ·h  under
+	the conditions.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> cultivation, 227±6 mM of isopropanol was detected in the culture broth, and
+	further incubation did not increase
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> 61%. Maximum volumetric productivity of isopropanol was 10.3 mmol·l ·h  under
+	the conditions.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> pCRC202 produced sixfold lower acetate than E. colipCRC200. The pH values of
+	culture broths were 4.6 and 5.8 after 24 h in control and engineered E. coli,
+	respectively. These results clearly indicated that carbon flux was redirected
+	to isopropanol (and acetone) from acetate in the genetically engineered E.
+	coli.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> This study demonstrated that E. coli with the five genes coding for four enzymes
+	from two Clostridium species produced up to 227 mM of isopropanol under aerobic
+	culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> Acetone-producing E. coli were constructed by introducing the genes encoding
+	three enzymes, THL, CTF, and ADC from C. acetobutylicum (Bermejo et al. 1998).
+	The E. coli produced 93 and 154 mM of acetone in shake flask and bioreactor
+	cultivations, respectively, whereas the isopropanol titer was 227 mM in shake
+	flask culture of E. colipCRC202 in this study. The yield of isopropanol and
+	solvent (isopropanol plus acetone) was 51 and 61%, respectively, in the present
+	study. These values were slightly higher than those of acetone-producing E.
+	coli where acetone yield was below 50% (Bermejo et al. 1998).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:43

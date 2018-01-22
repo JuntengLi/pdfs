@@ -1,0 +1,113 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering Escherichia coli for odd straight medium chain free fatty acid production
+
+	> Engineering Escherichia coli for odd straight medium chain free fatty acid
+	production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> propionylCoA synthetase (prpE) from Salmonella enterica was overexpressed in two
+	efficient even chain FFAs producers, ML103 (pXZM12) carrying the acyl-ACP
+	thioesterase gene from Umbellularia californica and ML103 (pXZ18) carrying the
+	acyl-ACP thioesterase gene from Ricinus communis combined with supplement of
+	extracellular propionate. With these metabolically engineered E. coli, the odd
+	straight chain FFAs, undecanoic acid (C11:0), tridecanoic acid (C13:0), and
+	pentadecanoic acid (C15:0) were produced from glucose and propionate. The
+	highest total odd straight chain FFAs produced by ML103 (pXZM12, pBAD-prpE)
+	reached 276 mg/l with a ratio of 23.43 % of the total FFAs. In ML103 (pXZ18,
+	pBAD-prpE), the highest total odd straight chain FFAs accumulated to 297 mg/l,
+	and the ratio reached 17.68 % of the total FFAs.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59
+
+
+	> Strains and plasmids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:49
+
+
+	> The E. coli strain ML103 (Zhang et al. 2011; Li et al. 2012b), a MG1655
+	derivative, was used as the host strain in this study.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:49
+
+
+	> Culture medium and conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:01
+
+
+	> During strains construction, cultures were grown at 37 °C in Lysogeny Broth (LB)
+	(per liter: tryptone 10 g, yeast extract 5 g, sodium chloride 10 g) (Bertani
+	1951), and appropriate antibiotics were included at the following
+	concentrations: ampicillin, 100 μg/ml; chloramphenicol, 34 μg/ml.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:01
+
+
+	> The concentrations of undecanoic acid, tridecanoic acid, and pentadecanoic acid
+	accumulated to 10.33, 19.36 and 1.83 mg/l at 24 h (Fig. S1a), respectively. At
+	48 h, the concentrations of undecanoic acid and tridecanoic acid increased by
+	66.7 % and 44.8 % while the concentration of pentadecanoic acid dropped by 8.98
+	% (Fig. 2a). The percentage of total odd straight chain fatty acids reached
+	around 3.21 % and changed a little at 24 and 48 h (Fig. 3c, Fig. S2c). With a
+	higher concentration of propionate (12 mM) supply, the percentage of total odd
+	straight chain fatty acids increased to 15.43 % at 24 h, about 4.8 times that
+	of 8 mM propionate, and dropped to 12.62 % at 48 h due to the further increase
+	of total even chain fatty acid (Fig. 3c, Fig. S2c). The final concentrations of
+	odd straight chain FFAs reached 178 mg/l (Fig. 3a). For the strain ML103
+	(pXZ18, pBAD33), pentadecanoic acid was produced with concentrations of 29.22
+	and 45.1 mg/l at 24 and 48 h under the condition of 8 mM propionate
+	supplementation, respectively (Fig. 2b, Fig. S1b). In the condition of 12 mM
+	propionate addition, tridecanoic acid and pentadecanoic acid became the major
+	odd straight chain FFAs. However, the highest percentage of total odd straight
+	chain fatty acids reached around 3.94 %, only about 25.5 % of the highest value
+	of the strain ML103 (pXZM12, pBAD33) (Fig. 3c). The total FFAs at 48 h reached
+	2,010 and 1,990 mg/l in 8 and 12 mM propionate conditions, respectively, which
+	were 1.48 (1,360 mg/l) and 1.41 (1411 mg/l) times of ML103 (pXZM12, pBAD33)
+	(Fig. 3b). ML103 (pXZ18, pBAD33) seemed to prefer even chain FFA production
+	more than that of ML103 (pXZM12, pBAD33) when propionate was added to the
+	fermentation media.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Compared to the conditions with and without propionate in the media, the glucose
+	utilization at 24 h were similar for both ML103 (pXZM12, pBAD33) and ML103
+	(pXZ18, pBAD33) strains; all glucose was consumed within 48 h (Fig. S3).
+	Different acetate accumulations were observed for both strains. Under the
+	condition with no propionate, a large amount of acetate was accumulated; ML103
+	(pXZM12, pBAD33) accumulated about 8.15 and 6.58 mM at 24 and 48 h, and ML103
+	(pXZ18, pBAD33) accumulated about and 24.5 and 38.2 mM at 24 and 48 h
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> In ML103 (pXZM12, pBAD-prpE), 10 mM arabinose appeared to be the best level
+	leading to a favorable induction of prpE; the total odd straight chain fatty
+	acids reached 276 mg/l with a ratio of 23.4 %. In ML103 (pXZ18, pBAD-prpE), the
+	condition of 20 mM arabinose showed the best result; 297 mg/l odd straight
+	chain fatty acid was produced with the ratio of 17.7 % at 48 h.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:56

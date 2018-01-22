@@ -1,0 +1,296 @@
+
+
+--------------------------------------------------------------------------------
+# Improved polyhydroxybutyrate production by Saccharomyces cerevisiae through the use of the phosphoketolase pathway
+
+	> Improved Polyhydroxybutyrate Production by Saccharomyces cerevisiae Through the
+	Use of the Phosphoketolase Pathway
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:14
+
+
+	> The strategy that resulted in the highest PHB production after 100 h was with a
+	strain harboring the phosphoketolase pathway to supply acetyl-CoA without the
+	need of increased NADPH production by gapN integration.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:14
+
+
+	> Strains, Media, and Culture Conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:13
+
+
+	> Shake Flask Cultivation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:14
+
+
+	> The pre-cultures for shake flask cultivations were prepared by inoculation of 5
+	mL modified minimal media in a 14 mL culture tube and grown at 308C and180 rpm
+	in an orbital shaking incubator. The modified minimal medium for shake flask
+	cultivations was prepared as follows (per liter): (NH4)2SO4, 7.5 g; KH2PO4,
+	14.4 g; MgSO47H2O, 0.5 g; 2 mL of trace metal solution and 1 mL of vitamin
+	solution with an initial pH of 6.5. Glucose was autoclaved separately from the
+	minimal medium and later added to media at a
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:14
+
+
+	> concentration of 20 g/L.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:11
+
+
+	> Yields and specific growth rates of the parental strain CEN.PK 113-11C and the
+	recombinant strain SCKK036 with gapN integration.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> mmax (per h) YSEtOH(g/g glc)   YSGly (g/g glc)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> The values reported were calculated for the exponential growth phase during
+	anaerobic shake flask cultivation in minimal media with 20 g/L glucose as sole
+	carbon source. These values were calculated from at least triplicate shake
+	flasks (n  3) and are represented as mean  SD.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> triplicate shake flasks (n  3) and are represented as mean  SD.  ......   The
+	values are significant difference at P-value  0.05.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> CEN.PK 113-11C
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> 0.39  0.00 0.50  0.02 0.10  0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> SCKK036 0.38  0.01 0.53  0.03 0.05  0.01
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:10
+
+
+	> Physiological parameters obtained during growth on minimal media with 20 g/L
+	glucose in shake flask cultivations.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> ......   ......   ......   ......   ......   ...... SCKK035   ......   ......
+	......   ......   ......   ...... 0.22  0.02   ......   ......   ......
+	......   ......   ...... 1.30  0.12   ......   ......   ......   ......
+	......   ...... 0.17  0.02   ......   ......   ......   ......   ......
+	...... 0.43  0   ......   ......   ......   ......   ......   ...... 0.04  0
+	......   ......   ......   ......   ......   ...... 0.06  0   ......   ......
+	......   ......   ......   ...... 12.48  0.81   ......   ......   ......
+	......   ...... 21.41  0.69 These values were calculated from at least
+	triplicate shake flasks (n  3) and are represented as mean  SD. The values
+	for SCKK005 and SCKK006 are taken
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> mmax (per h) rs (g/g DW  h) YSX (g/g glc) YSEtOH (g/g glc) YSGly (g/g glc)
+	YSPHB (mg/g glc)  ...... YEtOHPHB (mg/g EtOH)  ...... PHB content at 100 h
+	(mg/g DW)  4.02  0.16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> These values were calculated from at least triplicate shake flasks (n  3) and
+	are represented as mean  SD. The values for SCKK005 and SCKK006 are taken from
+	a previous study (Kocharin et al., 2012).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> phosphoketolase pathway. SCKK006 and SCKK034 overexpress the ethanol degradation
+	pathway.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> All strains listed in this table harbor the PHB plasmid (pKK01). SCKK005 and
+	SCKK032 carry pKK001 and pIYC04. SCKK032 and SCKK035 express the
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> mmax, maximum specific growth rate on glucose; rs, specific glucose consumption;
+	YSX, biomass yield on substrate (glucose); YSEtOH, ethanol yield on
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> mmax, maximum specific growth rate on glucose; rs, specific glucose consumption;
+	YSX, biomass yield on substrate (glucose); YSEtOH, ethanol yield on substrate
+	(glucose); YSGly, glycerol yield on substrate (glucose); YSPHB, PHB yield on
+	substrate (glucose); YEtOHPHB, PHB yield on ethanol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> SCKK005 0.27  0.02 1.80  0.09 0.15  0.01 0.35  0.05 0.05  0 0.02  0.01
+	0.22  0.04 PHB content at 100 h (mg/g DW)  4.02  0.16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Strains without gapN integration
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> SCKK006 0.28  0 2.24  0.33 0.13  0.02 0.35  0.07 0.07  0 0.13  0.02 6.09 
+	1.44 15.89  0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Polyhydroxybutyrate production in S. cerevisiae employing different strategies
+	to improve PHB production. SCKK005 and SCKK033 harbor only the PHB plasmid
+	(pKK01). SCKK032 and SCKK035 carry pJC7 (phosphoketolase pathway) whereas
+	SCKK006 and SCKK034 carry pIYC08 (ethanol degradation pathway). Samples for PHB
+	measurement were taken at 50 h (the glucose phase), 75 h (the ethanol phase),
+	and 100 h (the end of fermentation where all the glucose and ethanol were
+	depleted).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> SCKK032 0.21  0.01 2.00  0 0.11  0 0.39  0.01 0.07  0 0.03  0 56.40  0.77
+	27.86  0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> SCKK033 0.22  0 1.37  0 0.16  0 0.48  0.01 0.04  0.01 0.27  0.01 16.11 
+	2.38 14.87  0.4
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> A more than tenfold increase in PHB yield on glucose was observed in SCKK033
+	compared to SCKK005, producing 0.27  0.01 and 0.02  0.01 g/g glc,
+	respectively. However, only a twofold higher PHB yield on glucose was observed
+	in SCKK035 compared with SCKK032 whereas no effect of gapN integration on YsPHB
+	was observed in strains with over-expression of the ethanol degradation
+	pathway, SCKK006 and SCKK034. The combination of gapN integration and the
+	ethanol degradation pathway was able to improve the yield of PHB on ethanol
+	from 6.09  1.44 to 14.50  2.9 mg/g EtOH in SCKK034. The combination of gapN
+	integration and expression of the phosphoketolase pathway, however, revealed an
+	antagonistic effect on PHB production on ethanol. The strain without gapN
+	integration but expressing the phosphoketolase pathway (SCKK032) showed the
+	highest yield of PHB on ethanol, 56.4 mg/g EtOH, which decreased to 12.5 mg/g
+	EtOH when the phosphoketolase pathway was combined with gapN integration.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Strains with gapN integration
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> SCKK034 0.23  0.02 1.31  0.18 0.18  0.02 0.35  0.01 0.05  0.01 0.12  0
+	14.50  2.90 27.52  4.82
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Specific productivity of ethanol, glycerol, and PHB obtained from shake flask
+	cultivations. The specific product formation rates were calculated by using the
+	equation: rp ¼ mmaxYsp/Ysx. rEtOH, specific productivity of ethanol; rGly,
+	specific productivity of glycerol; rPHB_Glu, specific productivity of PHB in
+	the glucose consumption phase; rPHB_EtOH, specific productivity of PHB in the
+	ethanol consumption phase.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:11

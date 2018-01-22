@@ -1,0 +1,188 @@
+
+
+--------------------------------------------------------------------------------
+# Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered yeasts
+
+	> Production of bioactive ginsenosides Rh2 and Rg3 by metabolically engineered
+	yeasts
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> In this study, two UDPglycosyltransferases (UGTs) were cloned and identified
+	from Panax ginseng. UGTPg45 selectively transfers a glucose moiety to the C3
+	hydroxyl of PPD and its ginsenosides. UGTPg29 selectively transfers a glucose
+	moiety to the C3 glucose of Rh2 to form a 1--2-glycosidic bond. Based on the
+	two UGTs and a yeast chassis to produce PPD, yeast cell factories were built to
+	produce Rh2 and/or Rg3 from glucose. The turnover number (kcat) of UGTPg29 was
+	more than 2500-fold that of UGTPg45, which might explain the higher Rg3 yield
+	than that of Rh2 in the yeast cell factories.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Materials and methods
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:09
+
+
+	> Yeast cultivation and metabolite extraction
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> To determine the performance of the genetically engineered yeast strains,
+	individual clones were inoculated into the YPD medium and cultivated at 30 1C,
+	250 rpm for 24 h. Aliquots were diluted to an initial OD600 of 0.05 in 10 mL of
+	YPD medium in 50 mL flasks and grown at 30 1C, 250 rpm for 6 days. Cell biomass
+	was determined by spectrophotometer under 600 nm and convert to dry cell weight
+	(1 OD600 ¼0.513 g DCW L  1  ) (Dai et al., 2013). The cell pellets were
+	harvested, disrupted and extracted with n-butanol and used for the analysis of
+	intracellular dammarane-type triterpenoids (dammarenediol II, PPD, Rh2 and
+	Rg3). T
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> Cell factories for the production of Rh2 and Rg3
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:11
+
+
+	> Production of ginsenosides and precursor products in four genetically engineered
+	strains.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Biomass or yield  a
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> DCW (g/L)  ...... Rg3 (μmol/g DCW) Rh2 (μmol/g DCW) PPD (μmol/g DCW) DM (μmol/g
+	DCW) SQ (μmol/g DCW) LST (μmol/g DCW) ER (μmol/g DCW)  ...... b  Total
+	dammarenediol triterpenoids (μmol/g DCW)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> a  All given data in this table representing mean values from three repeats with
+	corresponding standard deviations. Yield referred to the sum of intracellular
+	and
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> extracellular contents. PPD, protopanaxadiol; DM, dammarenediol-II; SQ,
+	squalene; LST, lanosterol; ER, ergosterol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> b  Total dammarenediol triterpenoids including DM, PPD, Rh2 and Rg3.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Based on HPLC analysis of product of fermentation, all transformants produced
+	Rh2, among which transformant D20RH18 produced the highest Rh2, 1.45 μmol/g DCW
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Similarly, both UGTPg45 and UGTPg29 (under the control of the constitutive
+	promoters TEF1 and HXT7, respectively) were integrated into the δ DNA sites of
+	strain ZW-PPD-B to construct a yeast cell factory to synthesize ginsenoside
+	Rg3. Based on HPLC analysis, the highest Rg3 production, 3.49 μmol/g DCW, was
+	detected in transformant D20RG1 (Fig. 4A, Fig. S4C).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> ZW-PPD-A
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> 19.85 70.24 0 0 2.497 0.62 0.067 0.02 4.09 7 0.42 1.34 7 0.05 9.017 0.39 2.55 7
+	0.63
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> ZW-PPD-B
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> 19.7770.53 0 0  ...... 8.29 7 1.24 0.147 0.01 3.187 0.44 1.25 7 0.23 9.667 1.29
+	8.43 7 1.25
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> D20RH18
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> 18.79 7 0.31 0  ...... 1.45 70.27 1.02 70.11 0  ...... 2.92 7 0.20 1.38 70.03
+	11.477 0.37 2.477 0.33
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> D20RG1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> 18.197 0.08 3.497 0.14 0.077 0.02 3.687 0.12 0.187 0.004 2.52 7 0.38 3.05 7 0.38
+	12.217 1.00 7.42 7 0.22
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14

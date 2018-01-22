@@ -1,0 +1,61 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering a mevalonate pathway in Escherichia coli for production of terpenoids
+
+	> Engineering a mevalonate pathway in Escherichia coli for production of
+	terpenoids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:44
+
+
+	> alternative method to produce high-value terpenoid compounds, such as the
+	antimalarial drug artemisinin, in a microbial host. We engineered the
+	expression of a synthetic amorpha-4,11-diene synthase gene and the mevalonate
+	isoprenoid pathway from Saccharomyces cerevisiae in Escherichia coli.  ......
+	24 µg caryophyllene equivalent/ml
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:44
+
+
+	> the production of amorpha-4,11-diene from the bacterium E. coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:44
+
+
+	> Expression of the synthetic ADS gene in E. coli DH10B resulted in a peak
+	concentration of amorphadiene of 0.086 µg caryophyllene equivalent/ml/OD600
+	after 10 h of growth in LB medium  ...... The peak  concentration  of
+	amorphadiene increased to 0.313 µg caryophyllene equivalent/ml/OD600 (  ......
+	which are rate-limiting enzymes of the native DXP isoprenoid pathway. Given
+	this 3.6-fold increase in amorphadiene concentration upon coexpression, we
+	suspected that FPP synthesis and not ADS expression limited amorphadiene
+	production in this engineered host.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:43
+
+
+	> Peak amorphadiene production from the complete mevalonate pathway reached 3.1 µg
+	caryophyllene equivalent/ml/OD600 after 9 h of growth in LB medium. This
+	represents 36- and 10-fold improvements over the peak production for the
+	strains with the native and engineered DXP pathway (0.086 and 0.313 µg
+	caryophyllene equivalents/ml/OD600, respectively, as described above)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:44
+
+
+	> E. coli DH10B was used as the cloning and isoprenoid expression strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:31:44

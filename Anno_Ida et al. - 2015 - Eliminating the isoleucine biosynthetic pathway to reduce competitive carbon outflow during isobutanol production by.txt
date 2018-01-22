@@ -1,0 +1,103 @@
+
+
+--------------------------------------------------------------------------------
+# Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon outflow during isobutanol production by Saccharomyces cerevisiae
+
+	> Eliminating the isoleucine biosynthetic pathway to reduce competitive carbon
+	outflow during isobutanol production by Saccharomyces cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Isobutanol is an important biorefinery target alcohol that can be used as a
+	fuel, fuel additive, or  ...... commodity chemical. Baker's yeast,
+	Saccharomyces cerevisiae, is a promising organism for the industrial
+	manufacture of isobutanol because of its tolerance for low pH and resistance to
+	autolysis. I  ...... The isobutyrate, pantothenate or isoleucine biosynthetic
+	pathways were deleted to reduce the outflow of carbon competing with isobutanol
+	biosynthesis in S. cerevisiae.  ...... The titer and yield of this engineered
+	strain was 224 ± 5 mg/L and 12.04 ± 0.23 mg/g glucose, respectively.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> Isobutanol production by BY4741 single-gene knockout strains. BY4741-emp and
+	ΔXXXX-emp are the control strains harboring the pATP426 empty vector.
+	BY4741-kAI and ΔXXXX-kAI harbor the pATP426-kivd-ADH6-ILV2 plasmid for
+	enhancing isobutanol biosynthesis. Cells were inoculated at an OD600 of 2 and
+	grown in SD minimal or selectable media. For ΔILV1 strains, 60 mg/L of
+	isoleucine was added to the SD medium. The concentration of isobutanol in the
+	medium of each culture after 2 days of fermentation was determined using GC-MS.
+	Each data point represents the mean (SD) values obtained from 3 replicate
+	fermentations
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> The highest concentration of isobutanol obtained was 70 ± 3 mg/L after 2 days
+	fermentation in the presence of 12 mg/L isoleucine.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:09
+
+
+	> Figure 4 shows the time course change in several fermentation products in the
+	medium. YPH499ΔILV1-kAI and YPH499ΔILV1-kAI-PMsM produced 153 ± 3 mg/L and 224
+	± 5 mg/L of isobutanol, respectively, a 2.1- and 3.1-fold increase compared to
+	YPH499ΔILV1-emp.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:08
+
+
+	> Time course of cultivation of and fermentation by YPH499ΔILV1 strain in
+	isoleucine-containing media. (a) YPH499ΔILV1 was inoculated at an OD600 of 0.1
+	and cultured in SD minimal medium containing 0, 1.25, 3, 6, 12, 18, 24 or 30
+	mg/L isoleucine. Cell growth was determined by measuring OD600 using a
+	spectrophotometer. (b)(c)(d)(e) YPH499ΔILV1 was inoculated at an OD600 of 2 and
+	grown in SD minimal medium containing different concentrations of isoleucine.
+	The cell growth was determined by measuring the OD600 using a
+	spectrophotometer, and the concentrations of isobutanol, ethanol, and the total
+	of 2-methyl-1-butanol and 3-methyl-1-butanol, in the media were determined
+	using GC-MS. Each data point represents the mean (SD) values obtained from 3
+	replicate fermentations
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:04
+
+
+	> Media, cultivation and fermentation conditions BY4741 and the single-gene
+	deletion mutants were cultured at 30°C in 5 mL of SD minimal medium (6.7 g/L
+	yeast nitrogen base without amino acids and 20 g/L
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:11
+
+
+	> glucose) containing 20 mg/L histidine, 60 mg/L leucine, 20 mg/L methionine and
+	20 mg/L uracil. For BY4741 ΔILV1 strain, 60 mg/L isoleucine was added. The
+	transformants were cultured in SD selectable medium (lacking uracil for plasmid
+	maintenance). YPH499ΔILV1 strain was cultured in SD minimal medium containing
+	40 mg/L adenine, 20 mg/L histidine, 60 mg/L leucine, 20 mg/L lysine, 40 mg/L
+	tryptophan, 20 mg/L uracil and 0 ~ 60 mg/L isoleucine. The transformants were
+	cultured in SD selectable medium lacking uracil and/or histidine. All yeast
+	cells were cultured in 5 mL of medium in test tubes for 3 days. The cells were
+	inoculated into 5 mL of fresh SD minimal or selectable medium at an OD600 of
+	0.1 to test cell growth in isoleucine-supplemented medium. For some
+	experiments, the cells were centrifuged and washed, then inoculated at an OD600
+	of 2 to test isobutanol production. For all experiments, growth was conducted
+	in 5 mL of medium in test tubes at 30°C, 150 opm for up to 4 days.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:06

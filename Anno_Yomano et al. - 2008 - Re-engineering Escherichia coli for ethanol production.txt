@@ -1,0 +1,58 @@
+
+
+--------------------------------------------------------------------------------
+# Re-engineering Escherichia coli for ethanol production
+
+	> Re-engineering Escherichia coli for ethanol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:54
+
+
+	> A lactate producing derivative of Escherichia coli KO11, strain SZ110, was re-
+	engineered for ethanol production by deleting genes encoding all fermentative
+	routes for NADH and randomly inserting a promoterless mini-Tn5 cassette
+	(transpososome) containing the complete Zymomonas mobilis ethanol pathway (pdc,
+	adhA, and adhB) into the chromosome.  ...... This strain fermented 9% (w/v)
+	xylose to 4% (w/v) ethanol in 48 h in mineral salts medium, nearly equal to the
+	performance of KO11 with Luria broth.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:54
+
+
+	> Organisms, media and growth conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> Strains and plasmids used in this study are listed in Table 1.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:58
+
+
+	> Fermentation conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> Fermentation tests were carried out in 500 ml fermentation vessels with
+	automatic pH control (37°C, pH 6.5, and 150 rpm, 350 ml working volume)
+	(Underwood et al. 2004) using NBS mineral salts medium containing 9% (w/v)
+	xylose, and 1 mM betaine. Pre-inocula were grown in standing screw-capped tubes
+	at 37°C for 24--48 h in NBS mineral salts medium containing 5% (w/v) xylose and
+	1 mM betaine, and transferred to small fermentors. After incubation for 24 h,
+	this culture was used to provide an initial inoculum level -1  of 10--16 mg dry
+	cell wt (dcw)1 .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55

@@ -1,0 +1,122 @@
+
+
+--------------------------------------------------------------------------------
+# Combinatorial engineering of mevalonate pathway for improved amorpha-4,11-diene production in budding yeast
+
+	> Combinatorial Engineering of Mevalonate Pathway for Improved Amorpha-4,11-Diene
+	Production in Budding Yeast
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:40
+
+
+	> As proof-of-concept that carotenoid overproducers could serve to boost the titer
+	of other terpenoids, we further tested engineered strains for the production of
+	amorpha-4,11-diene, an important precursor for antimalarial drug. However, we
+	experienced some limitations of the carotenoid-based screening approach as it
+	was only effective in detecting a small range of pathway activity improvement
+	and further increasing mevalonate pathway activity led to a decreased orange
+	color. By far, we were only able to obtain one mutant strain yielded more than
+	13-fold amorpha-4,11-diene over parental strains, which was approximately 64
+	mg/L of caryophyllene equivalents. Further qPCR studies confirmed that erg10,
+	erg13, thmg1 and erg12 involved in mevalonate pathway were overexpressed in
+	this mutant strain.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:39:40
+
+
+	> Strains, Plasmids, and Reagents
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:58
+
+
+	> Amorpha-4,11-Diene Production in Yeast
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:56
+
+
+	> Specifically, eight mutant strains (same strains as shown in
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> Specifically, eight mutant strains (same strains as shown in Fig. 3) were
+	transformed with plasmid pRS425ADS, which harbors amorpha-4,11-diene synthase
+	gene (ADS) from A. annua for the conversion of FPP to amorpha-4,11-diene (Ro et
+	al., 2006). During the evaluation of amorpha-4,11-diene production, mutant
+	strains showed similar growth profiles to parental yeast strains; however,
+	there was a significant improvement of amorpha-4,11-diene levels for all mutant
+	strains (Fig. 4). After normalized to cell density, the best producers (M7 and
+	M8) were able to produce 6-fold of amorpha-4,11-diene over parental strains
+	after 5 days cultivation, which is very impressive considering that only one
+	round of combinatorial engineering was performed at this moment. Based on the
+	PCR validation result as shown in Figure S1, the high level of
+	amorpha-4,11-diene for M7/M8 might be attributed to the integration of thmg1
+	encoding the rating limiting step, which is consistent with the previous
+	findings (Polakowski et al., 1998; Ro et al., 2006). On the other hand, the
+	integration of other mevalonate pathway genes without thmg1 showed only a
+	moderate improvement in amorpha-4,11-diene level. In particular, M3 only
+	produced twofold of amorpha-4,11-diene over parental strains even though three
+	genes were found to be integrated into genome (Fig. S1).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> in amorpha-4,11-diene level. In particular, M3 only
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> continuously measured for 5 days.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> As shown in Figure 5, among them, there were two mutant strains produced
+	significantly higher levels of amorpha-4,11-diene and the best producer (M32nd)
+	from this batch could even yield more than 13-fold of
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> Time course of amorph-4,11-diene production in S. cerevisiae mutant strains and
+	parental strains harboring pRS425ADS. Amorpha-4,11-diene levels were
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> amorpha-4,11-diene over parental strains, which was approximately of 64 mg/L of
+	caryophyllene equivalents.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57
+
+
+	> Amorpha-4,11-diene production of mutant S. cerevisiae strains obtained from
+	carotenoid producing library with large colony size and yellowish appearance.
+	Amorpha-4,11-diene levels were measured after 5 days. Data represented the
+	average and standard deviation of three independent experiments.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:43:57

@@ -1,0 +1,149 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering of the pyruvate dehydrogenase bypass in Saccharomyces cerevisiae for high-level production of isoprenoids
+
+	> Saccharomyces cerevisiae for high-level production of isoprenoids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> Engineering of the pyruvate dehydrogenase bypass in
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> In order to enhance the supply of acetyl-CoA to the mevalonate pathway and
+	achieve high-level production of amorphadiene, we engineered the pyruvate
+	dehydrogenase bypass in S. cerevisiae.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:31
+
+
+	> Medium and cultivation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:35
+
+
+	> For the cultivation of all yeast strains, SD medium containing 2% galactose as a
+	sole carbon source was prepared with the composition described previously (Ro
+	et al., 2006). Preculture in test tubes containing 5 mL of SD medium was
+	performed at 30 1C for 3--4 days on a rotary shaker (200 rpm). After
+	preculture, cells were inoculated into 50 mL of fresh SD medium in a 250 mL
+	Erlenmeyer flask to an OD600 (optical density measured at 600 nm) of 0.05 and
+	cultivated at 30 1C for 1--8 days on a rotary shaker (200 rpm).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:35
+
+
+	> Overexpression of ALD6 in each strain decreased cell mass, resulting in a
+	decrease in amorphadiene production by 30--40%. When ethanol levels were
+	compared, both PDB101 and PDB102 produced less than EPY213
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Comparison of amorphadiene and mevalonate production among various strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> EPY213 L641P  PDB107 (EPY213/pESC-ALD6-SEacs  ) EPY224  ...... L641P  PDB108
+	(EPY224/pESC-ALD6-SEacs  )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> This strain (PDB108) achieved the highest amorphadiene production level of any
+	strain tested, over 0.6 mM (about 120 mg/L). Productivity in PDB108 increased
+	1.9-fold over EPY224
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> Amorphadiene (mM)  Mevalonate (mM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> 0.35670.001 0.43570.009 0.49370.010 0.60470.005
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> Amorphadiene (mM)  Mevalonate (mM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> 1.7870.06 2.5270.17 2.0470.06 2.5570.17
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> Amorphadiene (mM/OD600)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> 0.12770.003 0.22470.008 0.19770.002 0.37070.003
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> Mevalonate (mM/OD600)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> 0.6470.02 1.3070.09 0.8270.03 1.5670.10
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37

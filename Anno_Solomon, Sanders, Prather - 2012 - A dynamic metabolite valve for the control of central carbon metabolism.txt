@@ -1,0 +1,177 @@
+
+
+--------------------------------------------------------------------------------
+# A dynamic metabolite valve for the control of central carbon metabolism
+
+	> A dynamic metabolite valve for the control of central carbon metabolism
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> A control node of glucose utilization, glucokinase (Glk), was exogenously
+	manipulated through either engineered antisense RNA or an inverting gene
+	circuit. Using these techniques, we were able to directly control glycolytic
+	flux, reducing the specific growth rate of engineered Escherichia coli by up to
+	50% without altering final biomass accumulation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:50:08
+
+
+	> 2.1. Strains and plasmids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> E. coli strains and plasmids used in this study are listed in Table 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 2.3. Culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Strains were propagated in Luria--Bertani (LB) medium at 37 1C for daily
+	manipulations (30 1C for intermediate recombination steps).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Strain  a
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> KTS822IG KTS622IG KTS022IG  c KTS922IG
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Final OD600
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.24 (0.04) 0.98 (0.09) 1.01 (0.08) 1.29 (0.13)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> b  Estimated Glk activity [U/mg]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.23 (0.04) 0.30 (0.02) 0.33 (0.02) 0.50 (0.03)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Titers
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Gnt [g/L]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.53 (0.03) 3.33 (0.10) 3.32 (0.03) 2.25 (0.40)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 5KG [g/L]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.03 (0.01) 0.17 (0.01) 0.19 (0.01) 0.20 (0.12)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Acetate [g/L]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> ND
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.32 (0.14) 0.28 (0.08) 0.82 (0.09)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> Glucose consumed [g/L]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> 0.87 (0.27) 7.45 (0.27) 7.05 (0.09) 7.34 (0.25)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25
+
+
+	> aTc. Titers of major fermentation products and glucose were assayed at 72 h.
+	Inducing the inverter at an OD600 0.3, there was a 30% improvement in
+	gluconate titers from 6.14 g/l to 8.04 g/l, a 40% reduction in acetate titers
+	from 0.41 g/l to 0.24 g/ l and a slight increase in glucose consumption from
+	7.3 g/l to 8.2 g/L with negligible change in biomass accumulation relative to
+	uninduced controls (Fig. 9A). Normalizing by glucose consumption on a molar
+	basis, this translates to an 18% improvement in gluconate molar yield (0.70
+	mol/mol Glu to 0.83 mol/mol Glu) and a 46% reduction in carbon wastage to
+	acetate (0.14 mol/mol Glu to 0.08 mol/mol Glu)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:55:25

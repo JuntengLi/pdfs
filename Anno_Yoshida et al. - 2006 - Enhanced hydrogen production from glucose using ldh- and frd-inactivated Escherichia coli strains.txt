@@ -1,0 +1,268 @@
+
+
+--------------------------------------------------------------------------------
+# Enhanced hydrogen production from glucose using ldh- and frd-inactivated Escherichia coli strains
+
+	> Enhanced hydrogen production from glucose using  ...... duction from Escherichia
+	c coli s ldhfrd-i h- and -inactivated  ...... strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:59
+
+
+	> We improved the hydrogen yield from glucose using a genetically modified
+	Escherichia coli. E. coli strain SR15 (ΔldhA, ΔfrdBC), in which glucose
+	metabolism was directed to pyruvate formate lyase (PFL), was constructed. The
+	hydrogen yield of wild-type strain of 1.08 mol/mol glucose, was enhanced to
+	1.82 mol/mol glucose in strain SR15. This figure is greater than 90 % of the
+	theoretical hydrogen yield of facultative anaerobes (2.0 mol/mol glucose).
+	Moreover, the specific hydrogen production rate −1  of strain SR15 (13.4 mmol h
+	g  −1  dry cell) was 1.4-fold higher than that of wild-type strain. In
+	addition, the volumetric hydrogen production rate increased using the process
+	where cells behaved as an effective catalyst. At −1 −1  94.3 g dry cell/l, a
+	productivity of 793 mmol h  l  (20.2 l −1 −1  h  l  at 37 °C) was achieved
+	using SR15.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:59
+
+
+	> The strains, plasmids, and primers used in this study are shown in Table 1
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> Cultivation and reaction conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> E. coli K-12 strain W3110 and the recombinant strains (Table 1) were initially
+	cultivated aerobically in test tubes at 37 °C in 10 ml BC medium (
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:56
+
+
+	> supplemented with 30 mM glucose and 50 mg/l ampicillin, kanamycin, or
+	chloramphenicol where necessary.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> The yield of the FHL-overexpressing strain SR13 of 0.95 mol/mol glucose when
+	added glucose was completely consumed was almost the same as that of wild-type
+	strain W3110. On the other hand, the yield of the lactate dehydrogenase- and
+	fumarate-reductase-inactivated strain SR15 of 1.82 mol/mol glucose was about
+	1.7-fold that of W3110.  ...... The concentration of hydrogen in the evolved
+	gas phase was around 24 mM for  ...... The specific hydrogen production rate of
+	SR13 of −1  9.1 mmol h  −1  g  dry cell was the same as that of W3110. On the
+	other hand, the rate of SR15 of 13.4 mmol h  −1  −1  g
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> The specific hydrogen production rate of SR13 of −1  9.1 mmol h  −1  g  dry cell
+	was the same as that of W3110. On the other hand, the rate of SR15 of 13.4 mmol
+	h  −1  −1  g dry cell was about 1.4-fold that of W3110.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> In contrast, SR14 and SR15 produced almost no lactate and succinate. SR14 and
+	SR15 produced 1.5-fold acetate and ethanol and 1.8-fold carbon dioxide about of
+	W3110 and SR13.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> −1  9.1 mmol h  −1  g  dry cell was the same as that of W3110. On the other
+	hand, the rate of SR15 of 13.4 mmol h  −1  −1  g
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:55
+
+
+	> The specific −1  hydrogen production rate was 8.0±0.7 and 8.7±0.7 mmol h −1  g
+	dry cell at 5 and 180 mM of glucose, and the hydrogen production rate was
+	independent of the glucose concentration
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> Lactate  ......   ......   ......   ......  Succinate  ......   ......   ......
+	......  Ethanol  ......   ......   ......   ......  Acetate  ......   ......
+	......   ......  Carbon dioxide  ......   ......   ......   ......  Formate
+	......   ......   ......   ......  Malate  ......   ......   ......   ......
+	Total  ......   ......   ......   ......
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> In W3110 at the cell density of 92.3 g dry cell/l, the reaction started
+	immediately after addition of glucose. In 9 min, 60 mM glucose was completely
+	degraded. The volumetric hydro−1 −1  gen production rate was 481 mmol h  l  −1
+	−1  (12.2 l h  l  at 37 °C). With SR15 at the cell density of 94.3 g dry
+	cell/l, the reaction commenced immediately after the addition of glucose, and
+	60 mM glucose was completely used up in 14 min. The volumetric hydrogen
+	production rate was 793 mmol h  −1  l  −1  −1  (20.2 l h  l  −1  at 37 °C). In
+	SR15, therefore, hydrogen productivity was 1.4-fold higher than that in W3110,
+	even at high cell density (above 90 g dry cell/l). The volumetric hydrogen
+	productivity of both W3110 and SR15 strains improved with increasing cell
+	density, but the specific productivity decreased gradually as cell density
+	increased. With SR15, the specific hydrogen production rate at high cell
+	density of (94.3 g dry cell/l) decreased 59 % compared to that achieved at low
+	cell density (5.1 g dry cell/l).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> W3110
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 0.98±0.12 1.01±0.06 1.74±0.19 0.68±0.01 0.80±0.10 0.05±0.03 0.19±0.05 5.45±0.26
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 14 min. The volumetric hydrogen production rate was 793 mmol h  −1  l  −1  −1
+	(20.2 l h  l  −1  at 37 °C). In SR15,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> SR13
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> The yield from SR14 and SR15 was substantially improved to 1.87 and 1.82 mol/mol
+	glucose, respectively, compared to the yield of 1.08 mol/ mol glucose by wild-
+	type strain W3110.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 1.41±0.25 0.98±0.02 1.82±0.20 0.58±0.08 0.64±0.08 0.05±0.02 0.19±0.03 5.68±0.28
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 14 min. The volumetric hydrogen production rate was 793 mmol h  −1  l  −1  −1
+	(20.2 l h  l  −1  at 37 °C). In SR15,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> glucose was completely degraded. The volumetric hydro−1 −1  gen production rate
+	was 481 mmol h  l  −1 −1  (12.2 l h  l  at
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 14 min. The volumetric hydrogen production rate was 793 mmol h  −1  l  −1  −1
+	(20.2 l h  l  −1  at 37 °C). In SR15,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> glucose was completely degraded. The volumetric hydro−1 −1  gen production rate
+	was 481 mmol h  l  −1 −1  (12.2 l h  l  at
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> SR14
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 0.04±0.01 0.10±0.01 2.68±0.29 0.83±0.05 1.33±0.04 0.06±0.01 0.24±0.02 5.28±0.35
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> glucose was completely degraded. The volumetric hydro−1 −1  gen production rate
+	was 481 mmol h  l  −1 −1  (12.2 l h  l  at
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> SR15
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> 0.06±0.01 0.13±0.02 2.76±0.25 0.91±0.07 1.27±0.04 0.06±0.01 0.27±0.24 5.45±0.16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:13:00
+
+
+	> The hydrogen yield above 90 % of the theoretical yield of 2.0 mol/mol glucose
+	was obtained by disrupting the pathways which are used in absorbing the excess
+	reductants.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:12:41

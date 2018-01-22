@@ -1,0 +1,280 @@
+
+
+--------------------------------------------------------------------------------
+# Identifying gene targets for the metabolic engineering of lycopene biosynthesis in Escherichia coli
+
+	> Identifying gene targets for the metabolic engineering of lycopene
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:07
+
+
+	> knockouts that yield improved product yield while maintaining acceptable overall
+	growth rate. For the particular case of lycopene biosynthesis in Escherichia
+	coli, we identified such targets that we subsequently tested experimentally by
+	constructing the corresponding single, double and triple gene knockouts  ......
+	For the case of lycopene biosynthesis, the so identified knockout targets
+	yielded a triple knockout construct that exhibited a nearly 40% increase over
+	an engineered, high producing parental strain.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:07
+
+
+	> biosynthesis in Escherichia coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:07
+
+
+	> Application of this strategy ultimately yielded an E. coli mutant strain that
+	accumulated 6600 ppm (6.6 mg/g dcw) of lycopene, an increase of approximately
+	40% relative to the engineered parental strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> E. coli K12 PT5-dxs, PT5-idi, PT5-ispFD, provided by DuPont, was used as the
+	lycopene expression strain when harboring the pAC-LYC (Cunningham et al., 1994)
+	plasmid containing the crtEBI operon. Overexpressions of dxs, idi, and ispFD
+	were chromosomally incorporated without an antibiotic marker through promoter
+	delivery (Suh et al., 2003) of the PT5 promoter  ...... Strains were grown at
+	37 1C with 225 RPM orbital shaking in M9-minimal media (Maniatis et al., 1982)
+	containing 5 g/L  D-glucose  and 68 mg/ml chloramphenicol. All cultures were 50
+	ml grown in a 250 ml flask with a 1% inoculation from an overnight 5 ml culture
+	grown to stationary phase.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> orresponding enzyme (i.e., reaction) from the stoichiometry matrix and
+	calculating the resulting flux profile. When multiple enzymes encode the same
+	reaction (as is the case with isoenzymes), all instances of that reaction were
+	removed
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:06
+
+
+	> Five major conclusions arise by comparing this experimental data to the results
+	of the simulations. First, the trend of actual mutant growth rates compares
+	qualitatively to the predicted values. Second, there is continuing improvement
+	of lycopene yield with an increased number of selective gene knockouts. This
+	trend reflects the selection criteria applied in the identification of gene
+	targets. Third, the gdhA/gpmB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:07
+
+
+	> Experimental results of single and multiple gene knockouts
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Knockout construct
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> None
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Single knockouts gdha gpma gpmb acee fdhf
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Double knockouts gdhA, aceE gdhA, gpmA gdhA, gpmB gdhA, talB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Triple knockouts gdhA, aceE, talB gdhA, aceE, fdhF
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 1  Growth rate (h )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> double knockout construct produced the highest yield among double knockouts at
+	18% above the parental strain, as predicted by the simulations. Fourth,
+	following the path of highest product yield in combination with the minimum
+	growth requirement yielded a triple knockout construct of gdhA/aceE/fdhF which
+	produced the highest yield of 37% above that of the parental strain. Finally,
+	gene targets selected as being important in triple knockout constructs, matched
+	computational predictions to be either ineffective as a single knockout (fdhF)
+	or detrimental as double a knockout (talB in gdhA background). Overall, the
+	experimental results followed the trends suggested by the simulations.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 0.67
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 0.55 0.44 0.55 0.52 0.57
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 0.52 0.37 0.49 0.46
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 1  Growth rate (h )
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 0.44 0.38
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Actual percentage of parental (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 100
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 82 66 82 78 85
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 78 55 73 68
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 65 56
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Predicted percentage of parental (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 100
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 75 40 40 68 100
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 56 9 9 62
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 44 54
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> Percent increase in lycopene content (PPM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 0% (4700 PPM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 13% (74) 8% (73) 7% (72) 9% (74) 4% (73)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 13% (74) 12% (73) 18% (73) 3% (74)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08
+
+
+	> 19% (74) 37% (73) (6600 PPM)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 17:38:08

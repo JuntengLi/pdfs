@@ -1,0 +1,491 @@
+
+
+--------------------------------------------------------------------------------
+# Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by eliminating ethanol and glycerol production and redox rebalancing
+
+	> Efficient production of 2,3-butanediol in Saccharomyces cerevisiae by
+	eliminating ethanol and glycerol production and redox rebalancing
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Here, 2,3-butanediol production in Saccharomyces cerevisiae was improved
+	stepwise by eliminating byproduct formation and redox rebalancing.  ......
+	lactis. In a flask fed-batch fermentation with optimized conditions, the
+	engineered adh1Δadh2Δadh3Δadh4Δadh5Δgpd1Δgpd2Δ strain overexpressing Bacillus
+	subtilis  α-acetolactate  synthase (AlsS) and  α-acetolactate  decarboxylase
+	(AlsD), S. cerevisiae 2,3-butanediol dehydrogenase (Bdh1), and L. lactis NoxE
+	from a single multigene-expression vector produced 72.9 g/L 2,3-butanediol with
+	the highest yield (0.41 g/g glucose) and productivity (1.43 g/ (L  h)) ever
+	reported in S. cerevisiae.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Strains and media
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:11
+
+
+	> Yeast cells were cultured in YP medium (10 g/L yeast extract and 20 g/L bacto-
+	peptone) supplemented with 20 (YPD), 50 (YPD5), or 100 g/L glucose (YPD10) or
+	in synthetic complete (SC) medium (6.7 g/L yeast nitrogen base without amino
+	acids, 1.4 g/L amino acids dropout mixture lacking His, Trp, Leu, and Ura)
+	supplemented with auxotrophic amino acids as required and 20 or 50 g/L glucose.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Fermentation experiments
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Yeast cells harboring appropriate plasmids were pre-cultured in SC-His medium
+	containing 20 g/L glucose and diluted to OD600 of 0.3 in 8 mL of SC-His medium
+	containing 50 g/L glucose in a 50 mL conical tube, and then cultivated at 30 1C
+	with shaking at 170 rpm. For shake flask fed-batch fermentation, cells
+	harboring p413-SDBN plasmid were pre-cultured in SC-His medium containing 20
+	g/L glucose, diluted to OD600 of 10, and cultured in 25 mL of YPD10 medium in a
+	250 mL flask at 30 1C with shaking at 170 rpm. Glucose was
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> intermittently added to the culture medium by using the feeding solution, which
+	was prepared by dissolving 800 g of glucose in 1 L of water.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:15
+
+
+	> Improvement of 2,3-butanediol production by introducing 2,3-butanediol
+	biosynthetic pathway in S. cerevisiae. The yeast strains WT [C] (A) and WT
+	[SDB] (B) were grown in SC-His media containing 50 g/L glucose. Error bars
+	indicate standard deviations of four independent experiments.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:57:12
+
+
+	> The adh1Δ strain showed slow growth rate (Supplementary Fig. S2A) because of the
+	accumulation of NADH and acetaldehyde as previously reported (de Smidt et al.,
+	2012; Drewke et al., 1990; Ng et al., 2012). When 2,3-butanediol pathway was
+	introduced into adh1Δ strain (adh1Δ [SDB]), the growth defect was þ
+	considerably recovered (Fig. 4A), which may be due to NAD regeneration by Bdh1
+	and pyruvate flux to  α-acetolactate instead of acetaldehyde formation. The
+	adh1Δ [SDB] strain produced 3.4 g/L ethanol after 27 h (Fig. 4A), indicating a
+	43% decrease compared with WT [SDB] strain (Fig. 3B). On the other hand, both
+	2,3-butanediol and
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> The effect of deleting competing pathways on 2,3-butanediol production. The
+	yeast strains adh1Δ [SDB] (A), adh1-5Δ [SDB] (B), gpd1Δgpd2Δ [SDB] (C),
+	adh1Δgpd1Δgpd2Δ [SDB] (D), and adh1-5Δgpd1Δgpd2Δ [SDB] (E) were grown in SC-His
+	containing 50 g/L glucose. Error bars indicate standard deviations of four
+	independent experiments.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Fermentation characteristics of recombinant strains.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Strain  Description
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Batch flask fermentation JHY606 WT [C] JHY607 WT [SDB] JHY608 adh1Δ [SDB] JHY609
+	adh1-5Δ [SDB] JHY610 gpd1Δgpd2Δ [SDB]  52 JHY611 adh1Δgpd1Δgpd2Δ
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Strain  Description
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> JHY612 adh1-5Δgpd1Δgpd2Δ
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> JHY613 adh1-5Δgpd1Δgpd2Δ
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Fed-batch flask fermentation JHY613 adh1-5Δgpd1Δgpd2Δ
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> [SDB]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> glycerol production increased by 18% and 30%, reaching 13.3 g/L and 8.6 g/L,
+	respectively, compared with WT [SDB] strain. The increase in glycerol
+	production can be explained as a compensation mechanism of regenerating NAD  þ
+	to maintain redox balance (Bakker et al., 2001). When all five ADH genes were
+	deleted (adh1-5Δ), ethanol production was almost completely blocked (o0.4 g/L)
+	(Fig. 4B). However, adh15Δ [SDB] strain showed similar level of 2,3-butanediol
+	production compared with adh1Δ [SDB] strain, while exhibiting further increase
+	in glycerol production by 22% (10.5 g/L after 36 h).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> [SDB]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> [SDBN]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> [SDBN]
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Fermentation time (h)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> In addition, we investigated the effect of deleting glycerol pathway on
+	2,3-butanediol production. Since glycerol-3-phosphate dehydrogenase is the
+	rate-controlling enzyme in the glycerol production (Cronwright et al., 2002),
+	we deleted both GPD1 and GPD2 to block the carbon flux to glycerol. In
+	agreement with previous reports (Ansell et al., 1997; Guadalupe Medina et al.,
+	2010), glycerol accumulation was completely eliminated in gpd1Δgpd2Δ strain
+	containing p413-SDB plasmid (gpd1Δgpd2Δ [SDB]) (Fig. 4C).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 24 31 27 36 JHY610 gpd1Δgpd2Δ [SDB]  52 60
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 72
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 43
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Products (g/L)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 51
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Ethanol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 22.03 70.11  0.707 0.01 0.56 7 0.05  0.03 7 0.00  0.59 7 0.05  0.0017 0.000
+	...... 5.97 70.69  6.55 7 0.58 0.86 7 0.24 11.30 7 0.33 12.167 0.43  0.365 7
+	0.011  ...... 3.44 70.72  8.647 0.32 0.60 7 0.37 13.277 0.28 13.87 7 0.59
+	0.4927 0.010  ...... 0.39 70.05 10.54 7 0.25 1.777 0.15 12.22 7 0.13 14.007
+	0.25  0.340 7 0.004  ...... 7.76 70.25  0.047 0.00 1.02 7 0.19 12.29 7 0.12
+	13.317 0.24  0.236 7 0.002  ...... 4.38 70.57  0.077 0.01 1.54 7 0.65 15.677
+	0.34 17.20 7 0.34  0.2617 0.006
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.0770.02  0.137 0.00 1.22 7 0.45 18.477 0.58 19.69 7 0.14  0.2577 0.008
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Glycerol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.12 70.09  0.047 0.01 1.78 7 0.22 18.89 7 1.22 20.677 1.00  0.4427 0.029
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.31 70.16  0.34 7 0.05 1.38 7 0.56 72.917 4.70 74.29 7 4.31  1.430 7 0.092
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.0770.02  0.137 0.00 1.22 7 0.45 18.477 0.58 19.69 7 0.14  0.2577 0.008
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Acetoin  2,3-BDO  Acetoin
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.12 70.09  0.047 0.01 1.78 7 0.22 18.89 7 1.22 20.677 1.00  0.4427 0.029
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.31 70.16  0.34 7 0.05 1.38 7 0.56 72.917 4.70 74.29 7 4.31  1.430 7 0.092
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Acetoin  2,3-BDO  Acetoin
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 22.03 70.11  0.707 0.01 0.56 7 0.05  0.03 7 0.00  0.59 7 0.05  0.0017 0.000
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Acetoin  2,3-BDO  Acetoin þ 2,3-BDO
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Productivity of 2,3-BDO (g/(L·h))
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 22.03 70.11  0.707 0.01 0.56 7 0.05  0.03 7 0.00  0.59 7 0.05  0.0017 0.000 5.97
+	70.69  6.55 7 0.58 0.86 7 0.24 11.30 7 0.33 12.167 0.43  0.365 7 0.011 3.44
+	70.72  8.647 0.32 0.60 7 0.37 13.277 0.28 13.87 7 0.59  0.4927 0.010 0.39 70.05
+	10.54 7 0.25 1.777 0.15 12.22 7 0.13 14.007 0.25  0.340 7 0.004 7.76 70.25
+	0.047 0.00 1.02 7 0.19 12.29 7 0.12  13.317 0.24  0.236 7 0.002 4.38 70.57
+	0.077 0.01 1.54 7 0.65 15.677 0.34 17.20 7 0.34  0.2617 0.006
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.0770.02  0.137 0.00 1.22 7 0.45 18.477 0.58 19.69 7 0.14  0.2577 0.008
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.12 70.09  0.047 0.01 1.78 7 0.22 18.89 7 1.22 20.677 1.00  0.4427 0.029
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.31 70.16  0.34 7 0.05 1.38 7 0.56 72.917 4.70 74.29 7 4.31  1.430 7 0.092
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> Yield of 2,3-BDO (g/g glucose)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.0017 0.000 0.226 7 0.007 0.2667 0.006 0.2457 0.003 0.248 7 0.003 0.3147 0.007
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.3707 0.011
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.380 7 0.023
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> 0.4077 0.010
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44
+
+
+	> comparison with WT [SDB] (Fig. 3B), 2,3-butanediol titer increased from 11.3 to
+	12.3 g/L, but ethanol titer also increased from 6.0 g/L to 7.8 g/L.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:45
+
+
+	> Next, we investigated 2,3-butanediol production upon deletion of both ethanol
+	and glycerol pathways. In adh1Δ and adh1-5Δ strains, both GDP1 and GPD2 genes
+	were additionally deleted to generate adh1Δgpd1Δgpd2Δ and adh1-5Δgpd1Δgpd2
+	strains. Additional deletion of ADH genes in gpd1Δgpd2Δ strain led to a
+	decrease in ethanol production, and the reduced ethanol levels in
+	adh1Δgpd1Δgpd2Δ [SDB] and adh1-5Δgpd1Δgpd2 [SDB] strains contributed to the
+	increase in 2,3-butanediol production levels accordingly (Fig. 4D and E). The
+	final adh1-5Δgpd1Δgpd2 [SDB] strain produced up to 18.5 g/L 2,3-butanediol with
+	a yield of 0.37 g/g glucose after 72 h, reaching 74% of maximum theoretical
+	yield (Fig. 4E and Table 3). In addition to high 2,3-butanediol yield,
+	byproduct formation was dramatically reduced in this strain (0.07 g/L ethanol
+	and 0.13 g/L glycerol).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:45
+
+
+	> Fed-batch fermentation for 2,3-butanediol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:45
+
+
+	> When aeration was increased by growing cells with 25 ml culture volume in a 250
+	ml flask, 2,3-butanediol productivity was remarkably improved compared with
+	that obtained from the routine cultivation condition of 8 ml culture in a 50 ml
+	conical tube (Supplementary Fig. S4), suggesting that increased aeration might
+	contribute to NAD  þ  regeneration through respiration or increasing NoxE
+	activity. Although NoxE has very low Km constant for oxygen (Sudar et al.,
+	2014), oxygen concentration might affect the NoxE activity in the fermentation.
+	Taken together, flask fedbatch fermentation was carried out in YPD10 medium
+	containing 100 g/L glucose with initial high cell density of OD600 of 10. After
+	51 h fermentation, 72.9 g/L 2,3-butanediol was produced with a yield of 0.41
+	g/g glucose, reaching 81.4% of maximum theoretical yield (Fig. 6). Furthermore,
+	2,3-butanediol productivity was dramatically improved to 1.43 g/(L  h).
+	Although 2,3-butanediol titer (72.9 g/L) was lower than that of previous
+	reports (above 100 g/L) (Kim et al., 2013; Lian et al., 2014), JHY613 strain
+	achieved the highest yield and productivity ever reported in S. cerevisiae.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:45
+
+
+	> By using these strategies, we could achieve both high yield and productivity in
+	2,3-butanediol production. In our final strain JHY613, 2,3-butanediol was
+	produced up to 72.9 g/L after 51 h cultivation, with 84% of the maximum
+	theoretical yield.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:58:44

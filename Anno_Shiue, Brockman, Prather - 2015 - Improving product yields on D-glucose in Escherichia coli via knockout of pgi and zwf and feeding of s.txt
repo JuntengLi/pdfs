@@ -1,0 +1,356 @@
+
+
+--------------------------------------------------------------------------------
+# Improving product yields on D-glucose in Escherichia coli via knockout of pgi and zwf and feeding of supplemental carbon sources
+
+	> Improving Product Yields on D-Glucose in  ...... Escherichia coli Via Knockout
+	of pgi and zwf and Feeding of Supplemental Carbon Sources
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:06
+
+
+	> we investigate the ability of an E. coli Dpgi Dzwf mutant to consume alternative
+	carbon sources (xylose, arabinose, and glycerol) for growth while reserving
+	glucose for product formation  ...... In addition, the yield from glucose of
+	the bioproduct D-glucaric acid was significantly increased in a Dpgi Dzwf
+	strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:06
+
+
+	> E. coli Strains and Plasmids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:58
+
+
+	> E. coli strains, plasmids, and oligonucleotides used in this study are listed in
+	Table I.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:58
+
+
+	> Culture Conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:58
+
+
+	> For determination of growth curves, cultures were grown in 250 mL baffled shake
+	flasks containing 50 mL LB medium supplemented with approximately 10 g/L
+	D-glucose, L-arabinose, glycerol, and/or D-xylose as indicated in Figures 2--5.
+	Seed   cultures were grown overnight at 30 C and inoculated to an optical
+	density at 600 nm (OD600) of 0.005. Cultures were   incubated at 30 C, 250
+	rpm, and 80% relative humidity for 72 h. To construct a growth curve, cell
+	densities were measured at regular time intervals on a DU800 Spectrophotometer
+	(Beckman Coulter, Pasadena, CA), with more frequent sampling during the
+	exponential growth phase.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:58
+
+
+	> own in 250 mL baffled shake flasks containing 50 mL LB medium supplemented with
+	10 g/L D-glucose and 10 g/L L-arabinose,  10 g/L glycerol, or 10 g/L  D-xylose.
+	Cultures were induced at inoculation with 0.1 mM
+	isopropyl-b-D1thiogalactopyranoside (IPTG). Ampicillin (100 mg/mL) and
+	kanamycin (30 mg/mL) were added for plasmid mainte  nance. Seed cultures were
+	grown overnight at 30 C in LB medium supplemented with 10 g/L D-glucose and 10
+	g/L Larabinose, 10 g/L glycerol, or 10 g/L D-xylose and inoculated   to an
+	OD600 of 0.005. Cultures were incubated at 30 C, 250 rpm, and 80% relative
+	humidity for 72 h
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> kanamycin (30 mg/mL) were added for plasmid mainte  nance. Seed cultures were
+	grown overnight at 30 C in LB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> For minimal medium experiments, a modified MOPSbuffered medium was used
+	containing 10 g/L D-glucose, 6 g/L L-arabinose,  6 g/L NH4Cl, 0.4 g/L K2HPO4, 2
+	mM MgSO4, 0.1 mM CaCl2, 40 mM MOPS, 4 mM tricine, 50 mM NaCl, 100 mM Bis-Tris,
+	134 mM EDTA, 31 mM FeCl3, 6.2 mM ZnCl3, 0.76 mM CuCl2, 0.42 mM CoCl2, 1.62 mM
+	H3BO3, 0.081 mM MnCl2, carbenicillin (100 mg/mL), and kanamycin (30 mg/mL).
+	Seed cultures were started using a 1:100 dilution   from LB and were grown at
+	30 C for 48 h in modified MOPS. Working cultures were inoculated to an OD600 of
+	0.02 and induced 32 h after inoculation with 0.1 mM IPTG. Cultures   were
+	incubated at 30 C, 250 rpm, and 80% relative humidity for 110 h. Adequate
+	aeration for product formation was ensured with the use of baffled shake
+	flasks. Samples were taken periodically, centrifuged to remove cell debris, and
+	the supernatants analyzed for metabolite concentrations.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> arabinose, 10 g/L glycerol, or 10 g/L D-xylose and inoculated   to an OD600 of
+	0.005. Cultures were incubated at 30 C,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> induced 32 h after inoculation with 0.1 mM IPTG. Cultures   were incubated at
+	30 C, 250 rpm, and 80% relative humidity
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> (30 mg/mL). Seed cultures were started using a 1:100 dilution   from LB and
+	were grown at 30 C for 48 h in modified MOPS.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> a  Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> M2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> M4
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Alternative carbon source
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> L-Arabinose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Glycerol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> D-Xylose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> L-Arabinose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Glycerol
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> D-Xylose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> Glucose
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	>  þ  þ  þ  þ  þ  þ
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> 1  mmax (h ) 1.00  0.01 1.01  0.06 0.98  0.02 0.97  0.04 1.00  0.03 0.87 
+	0.20 0.65  0.01 0.66  0.02 0.66  0.05 0.68  0.01 0.70  0.01 0.67  0.0
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:02
+
+
+	> In supplemented LB, D-glucaric acid yield on glucose is increased in the Dpgi
+	Dzwf mutant nearly 18-fold over an unmutated control supplemented with
+	L-arabinose or  D-
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:56
+
+
+	> xylose, while yield is increased approximately 9-fold in the Dpgi Dzwf strain
+	supplemented with glycerol (Table III). Additionally, D-glucaric acid titers
+	are significantly higher in the Dpgi Dzwf mutant
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:56
+
+
+	> To simulate a lean medium that might be obtained from the hydrolysis of
+	lignocellulosic biomass, the Dpgi Dzwf strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:56
+
+
+	> a  Strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> M2-2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> M6
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> L-Arabinose  in LB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> was also tested in a modified MOPS minimal medium containing 10 g/L D-glucose
+	and 6 g/L L-arabinose. Although the strain grew more slowly under these
+	conditions, D-glucaric acid titers of 0.40  0.02 g/L were obtained, nearly as
+	much as observed in supplemented LB (Fig. 5). The yield of D-glucaric acid from
+	glucose was 47%; however, approximately 0.2 g/L of myo-inositol was also
+	produced, bringing the total yield of G6P-derived products to 71%.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Carbon
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Glycerol in LB D-Xylose  in LB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> L-Arabinose  in LB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Glycerol in LB D-Xylose  in LB
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> L-Arabinose  in MOPS  0.40  0.02
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> D-Glucaric
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> acid titer (g/L) 0.13  0.01 0.20  0.02 0.13  0.01 0.50  0.01 0.81  0.10
+	1.19  0.08 L-Arabinose  in MOPS  0.40  0.02
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> Yield on
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> D-glucose  (g/g) 0.044  0.002 0.052  0.009 0.039  0.002 0.76  0.13 0.44 
+	0.04 0.73  0.03 0.47  0.25
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:04
+
+
+	> This strain was able to consume L-arabinose, glycerol, and Dxylose even in the
+	presence of D-glucose, and yields of Dglucaric acid on D-glucose were increased
+	9- to 18-fold in the Dpgi Dzwf strain
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:59

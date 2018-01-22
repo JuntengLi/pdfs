@@ -1,0 +1,176 @@
+
+
+--------------------------------------------------------------------------------
+# Construction of lycopene-overproducing Saccharomyces cerevisiae by combining directed evolution and metabolic engineering
+
+	> Construction of lycopene-overproducing Saccharomyces cerevisiae by combining
+	directed evolution and metabolic engineering
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> Here, we tried to assemble an unimpeded biosynthesis pathway by combining
+	directed evolution and metabolic engineering in S. cerevisiae for lycopene-
+	overproduction. First, the catalytic ability of phytoene syntheses from
+	different sources was investigated based on lycopene accumulation.
+	Particularly, the lycopene cyclase function of the bifunctional enzyme CrtYB
+	from Xanthophyllomyces dendrorhous was inactivated by deletion of functional
+	domain and directed evolution to obtain mutants with solely phytoene synthase
+	function. Coexpression of the resulting CrtYB11M mutant along with the CrtE and
+	CrtI genes from X. dendrorhous, and the tHMG1 gene from S. cerevisiae led to
+	production of 4.47 mg/g DCW (Dry cell weight) of lycopene and 25.66 mg/g DCW of
+	the by-product squalene. To further increase the FPP competitiveness of the
+	lycopene synthesis pathway, we tried to enhance the catalytic performance of
+	CrtE by directed evolution and created a series of pathway variants by varying
+	the copy number of Crt genes. Finally, fed-batch fermentation was conducted for
+	the diploid strain YXWPD-14 resulting in accumulation of 1.61 g/L (24.41 mg/g
+	DCW) of lycopene, meanwhile, the by-production of squalene was reduced to below
+	1 mg/g DCW.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> Media and culture conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Fed-batch fermentation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:12
+
+
+	> For larger-scale cultures, a 5 L fermentor (Shanghai Huihetang Bioengineering
+	Equipment Co. Ltd, China) containing 2.5 L of fermentation medium was adopted.
+	The recombinant yeast strain precultured in YPD shake flask was used as the
+	inoculum and the inoculation volume was 10%. The composition of the
+	fermentation medium used in this work was the same as described previously (van
+	Hoek et al., 2000). A two-stage feeding process was adopted for achieving the
+	goal of high-cell density fermentation. First, a 1 L of feeding solution I
+	consisting of 500 g/L glucose, 9 g/L KH2PO4, 2.5 g/L MgSO4, 3.5 g/L K2SO4, 0.28
+	g/L Na2SO4, 10 ml/L trace metal solution and 12 ml/L vitamin solution was used
+	to sustain fast cell growth. After that, another 500 mL of feeding solution II
+	containing 250 g/L glucose and 250 g/L glycerol as carbon sources was used to
+	induce the lycopene accumulation.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:12
+
+
+	> Shake flask experiments demonstrated CrtYB01M
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> overexpression resulted in 2.53 mg/g DCW of lycopene production, which was about
+	3-fold higher than that of the CrtB-overexpressing strain (
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> It turned out that squalene was accumulated to as high as 25.66 mg/g DCW while
+	only 4.47 mg/g DCW of lycopene was produced
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> We then used CrtE03M to replace the wild-type CrtE in pUMRI10-LYC04 and
+	constructed YXWP-111( þ). After the new strain was cultured in shake flasks
+	containing YPD medium for 3 days, a lycopene production of 9.67 mg/g DCW was
+	achieved, which was about 2.2 folds that of YXWP-P3-01. Meanwhile, the squalene
+	accumulation was decreased to 10.23 mg/g DCW (Fig. 8), suggesting that the
+	positive mutant CrtE03M indeed rerouted the flux of FPP and promoted the
+	lycopene production.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:11
+
+
+	> Lycopene and squalene production by recombinant yeast strains harboring
+	different copies of Crt genes. The strains were cultivated for 3 days in YPD
+	media. The data were obtained from at least three independent cultures
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Construction of prototrophic strains for lycopene production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> The diploid strain YXWPD-14 gave a superior cell growth ability (23.408 OD600)
+	and the best lycopene production (23.23 mg/g DCW, 159.56 mg/L) (Table 3), and
+	was consequently chosen for subsequent fed-batch fermentation to obtain even
+	higher lycopene production.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Here, a similar feeding process was adopted (Fig. 9A). After 1 L of feeding
+	solution I containing 500 g glucose was fed into the bioreactor in the first
+	stage, the biomass reached OD600 ¼230, while the lycopene in cells was only
+	about 4.3 mg/g DCW. During the second feeding stage with 0.5 L feeding solution
+	II containing 125 g glucose and 125 g glycerol, although the biomass only
+	showed a slight increment, the lycopene accumulation was dramatically
+	increased. After the exhaustion of the feeding solution II at 96 h, a lycopene
+	production of 1.43 g/L and 22.03 mg/g DCW was achieved. Although the feeding
+	process was stopped after 96 h, lycopene was accumulated continuously to 1.61
+	g/L and 24.41 mg/g DCW until the completion of fermentation (Fig. 9B--D). To be
+	noted, the by-product squalene in cells was kept below 1 mg/g DCW during the
+	whole process of fermentation (Fig. 9B), suggesting that the FPP flux was
+	efficiently pulled to GGPP and lycopene biosynthesis after we strengthened the
+	downstream lycopene pathway.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Although the lycopene content in this work (24.41 mg/g DCW) was still lower than
+	the E. coli production system (32 mg/g DCW) (Kim et al., 2011), it was much
+	higher than previous reports on lycopene production from engineered S.
+	cerevisiae strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> The final lycopene production of 24.41 mg/g DCW (1.61 g/L) achieved in this
+	study was the
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15
+
+
+	> highest ever reported from an engineered yeast strain, demonstrating the
+	efficiency of this combinational strategy of directed evolution and metabolic
+	engineering for construction of unimpeded biosynthetic pathways, especially for
+	the production of molecules with cell toxicity.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:15

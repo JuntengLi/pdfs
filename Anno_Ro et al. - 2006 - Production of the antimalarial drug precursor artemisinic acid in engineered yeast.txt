@@ -1,0 +1,87 @@
+
+
+--------------------------------------------------------------------------------
+# Production of the antimalarial drug precursor artemisinic acid in engineered yeast
+
+	> Production of the antimalarial drug precursor artemisinic acid in engineered
+	yeast
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Here we report the engineering of Saccharomyces 21  cerevisiae to produce high
+	titres (up to 100 mg l ) of artemisinic acid using an engineered mevalonate
+	pathway, amorphadiene synthase, and a novel cytochrome P450 monooxygenase
+	(CYP71AV1) from A. annua that performs a three-step oxidation of
+	amorpha-4,11-diene to artemisinic acid. The synthesized artemisinic acid is
+	transported out and retained on the outside of the engineered yeast, meaning
+	that a simple and inexpensive purification process can be used to obtain the
+	desired product. Although the engineered yeast is already capable of producing
+	artemisinic acid at a significantly higher specific productivity than A. annua,
+	yield optimization and industrial scale-up will be required to raise
+	artemisinic acid production to a level high enough to reduce artemisinin
+	combination therapies to significantly below their current prices
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> To test for improvements in FPP production, we expressed ADS under the control
+	of the GAL1 promoter on the pRS425 plasmid (see Supplementary Information for
+	details). Yeast engineered with ADS alone produced a low quantity of
+	amorphadiene (Fig. 2, strain EPY201, 4.4 mg l  21  amorphadiene).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Although upc2-1, a semi-dominant mutant allele that enhances the activity of
+	UPC2 (a global transcription factor regulating the biosynthesis of sterols in
+	14  S. cerevisiae) , , had only a modest effect on amorphadiene production when
+	overexpressed in the EPY208 background (Fig. 2, strain EPY210), the combination
+	of downregulating ERG9 and overexpressing upc2-1 increased amorphadiene
+	production to 105 mg l  21  (Fig. 2, strain EPY213). Integration of an
+	additional copy of tHMGR into the chromosome further increased amorphadiene
+	production by 50% to 149 mg l  21  (Fig. 2, strain EPY219). Although
+	overexpression of the gene encoding FPP synthase (ERG20) had little effect on
+	total amorphadiene production (Fig. 2, strain EPY224), the specific production
+	increased by about 10% owing to a decrease in cell density. Combining all of
+	these modifications resulted in a strain (EPY224) able to produce 153 mg l  21
+	amorphadiene, a sesquiterpene production level nearly 500-fold 15  higher than
+	previously reported .
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Production of amorphadiene by S. cerevisiae strains.  ...... le
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:11
+
+
+	> In vivo production, purification and chemical analysis of artemisinic acid
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14
+
+
+	> Fermentation and product analyses. A one-litre bioreactor (New-Brunswick
+	Scientific) was used to culture the transgenic yeast strain for 93 h at 30 8C.
+	Yeast cells were induced with 2% galactose at an A 600 of 1.7, and the final
+	cell density reached an A 600 of 5.0. The dissolved oxygen level was maintained
+	at 40% by altering 21  agitation speed from 100 to 500 r.p.m. and sparging air
+	at 0.5 l min . Artemisinic acid was removed from the cell pellet by an alkaline
+	wash as before, and purified through a silica column eluted with 78% hexane,
+	20% ethyl acetate and 2% acetic acid.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:14

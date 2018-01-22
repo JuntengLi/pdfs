@@ -1,0 +1,323 @@
+
+
+--------------------------------------------------------------------------------
+# Engineering modular ester fermentative pathways in Escherichia coli
+
+	> Engineering modular ester fermentative pathways in Escherichia coli
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Compared to the wildtype, the engineered cell factories yielded up to 48 fold
+	increase in butyrate ester production from glucose.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:00
+
+
+	> Materials and methods
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> 2.1. Strain construction
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> Table 1 lists strains used in this study. E. coli TOP10 was primarily used for
+	molecular cloning.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> For molecular cloning, Luria-Bertani (LB) was used with supplementation of
+	antibiotic where applicable. Antibiotics at working concentrations of 50 μg/mL
+	kanamycin (kan), 100 μg/mL
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> ampicillin (amp) were used to maintain the selection of single plasmids. For
+	dual plasmids, two antibiotics were used for selection and concentrations of
+	each antibiotic were used at half of their working concentrations for single
+	plasmid selection.  ...... For ester production experiments, the M9 hybrid
+	medium (pH 7) was used, consisting of 100 ml/L of 10X M9 salts, 1 ml/L of 1 M
+	MgSO4, 100 μL/L of 1 M CaCl2, 1 ml/L of stock thiamine HCl solution (1 g/L), 1
+	ml/L of stock trace metals solution (Trinh et al., 2008), 5 g/L yeast extract,
+	and appropriate antibiotics. Unless
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:52
+
+
+	> specified, 20 g/L glucose was used in the M9 hybrid medium. The stock 10X M9
+	salt solution contained 67.8 g/L Na2HPO4, 30 g/L KH2PO4, 5 g/L NaCl, and 10 g/L
+	NH4Cl. For fermentation experiments using glucose greater than 20 g/L, the M9
+	hybrid medium was also supplemented with 50 mM MOPS for buffering capacity.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> D.S. Layton, C.T. Trinh / Metabolic Engineering 26 (2014) 77--88
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> EcDL101 produced ethyl butyrate with a titer of 6.0070.13 mg/L and a specific
+	ester production rate of 80.0273.26 μg/gDCW/h after 24 h by exogenous ethanol
+	addition to the medium (Fig. 2B). Similarly, addition of propanol yielded
+	5.2170.10 mg/L and 69.1671.65 μg/gDCW/h of propyl butyrate; addition of
+	isopropanol produced 4.3170.28 mg/L and 57.1372.97 μg/gDCW/h of isopropyl
+	butyrate; addition of isobutanol achieved 2.0870.07 mg/L and 27.0071.02
+	μg/gDCW/h of isobutyl butyrate; and addition of butanol produced 2.3770.04 mg/L
+	and
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> 81
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:51
+
+
+	> 30.5571.24 μg/gDCW/h (Fig. 2B). Of note, EcDL101 also produced ethyl butyrate as
+	byproduct in some alcohol addition experiments but at lower concentrations and
+	rates than the controlled experiments. This was likely due to the availability
+	of endogenous acetyl-CoA and the function of native aldehyde/alcohol
+	dehydrogenases such as adhE for converting acetyl-CoA to ethanol. Taken
+	together, EcDL101 achieved the highest ethyl butyrate production and exhibited
+	different specificity towards  different  added  alcohols  with  the  following
+	order: ethanol4propanol4isopropanol4butanol4isobutanol.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:03
+
+
+	> We characterized EcDL201, EcDL202, and EcDL203 in high-cell density fermentation
+	experiments. The results show all characterized base strains successfully
+	produced the targeted butyrate esters directly from glucose under anaerobic
+	conditions (Fig. 4 and Table 3). After 24 h, EcDL201 produced ethyl butyrate at
+	a titer of 3.2170.14 mg/L  and  a  specific  ester  production  rate  of
+	39.1772.00 μg/gDCW/h; EcDL202 produced isopropyl butyrate at 0.1870.02 mg/L and
+	2.6470.26 μg/gDCW/h; and EcDL203 produced isobutyl butyrate at 0.2670.00 mg/L
+	and 3.7170.06 μg/ gDCW/h. Besides the targeted butyrate esters, EcDL202 and
+	EcDL203 also produced high level of ethyl butyrate as a byproduct. Taken all
+	together, ethyl butyrate was produced with the highest specificity (99%) and
+	rate by EcDL201 but the trend appeared to be reciprocal for production of
+	isopropyl butyrate (29%) by EcDL202 and isobutyl butyrate (19%) by EcDL203.
+	This could be due to flux imbalance for synthesizing the ester precursors,
+	butyryl CoA and alcohols, as well as the specificity of SAAT. Residue alcohols
+	were produced in a range of 1.63--5.97 g/L in total for all characterized
+	strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:03
+
+
+	> 3.2170.14 mg/L  and  a  specific  ester  production  rate  of
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:03
+
+
+	> 3.2170.14 mg/L  and  a  specific  ester  production  rate  of
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:03
+
+
+	> EcDL204 produced ethyl butyrate at a titer of 37.167 0.43 mg/L (98% specificity)
+	and a specific ester  production rate of 536.62 71.74 μg/gDCW/h after 24 h,
+	yielding  14 fold higher ethyl butyrate production than the base strain
+	EcDL201. Likewise, EcDL205 produced isopropyl butyrate at 1.34 70.05 mg/L (26%
+	specificity) and 21.377 0.58 μg/gDCW/h, reaching  8 fold higher isopropyl
+	butyrate production than the base strain EcDL202. EcDL206 produced isobutyl
+	butyrate at 1.54 70.09 mg/L (29% specificity) and 23.15 71.44 μg/gDCW/h,
+	achieving 6 fold higher isobutyl butyrate production than the base strain
+	EcDL203. Among the engineered modular strains, EcDL204 produced ethyl butyrate
+	with the highest titer, rate, and specificity. Like EcDL202-3, EcDL205-6
+	produced a large fraction of ethyl butyrate as byproduct with the same reason
+	as previously described
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:03
+
+
+	> Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> EcDL201  ...... 3.217 0.14 (99%) EcDL202  ...... 0.41 70.01 (66%) 0.187 0.02
+	(30%) 1.0770.01 (69%) n.d. EcDL203  ...... 37.167 0.43 (98%)  n.d. EcDL204
+	EcDL205  ...... 3.68 70.12 (72%)  1.34 7 0.05 (26%)  ...... 3.61 70.16 (56%)
+	n.d. EcDL206  ...... EcDL204 overlay 87.93 72.26 (94%) n.d.  ...... EcDL205
+	overlay 12.63 70.42 (71%) 4.40 7 0.22 (25%) EcDL206 overlay 12.64 71.07 (43%)
+	n.d.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Ethyl butyrate  Isopropyl butyrate Isobutyl butyrate  Butyl butyrate  Isobutyl
+	acetate  Butyl acetate  Total
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> mg/L (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Ethyl butyrate  Isopropyl butyrate Isobutyl butyrate  Butyl butyrate  Isobutyl
+	acetate  Butyl acetate  Total
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> n.d.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> n.d.  ...... 0.02 70.00 (1%)  n.d.  ...... n.d.  ...... n.d.  ...... 0.03 70.00
+	(4%)  n.d.  ...... n.d.  ...... 0.26 70.00 (2%)  0.03 70.00 (17%) 0.197 0.01
+	(12%) n.d.  ...... n.d.  ...... n.d.  ...... n.d. 0.75 70.16 (2%)  ...... n.d.
+	...... 0.0770.00 (2%)  n.d.  ...... n.d.  ...... 1.54 7 0.09 (24%)  0.23 70.02
+	(3%)  1.08 7 0.02 (17%) n.d.  ...... n.d.  ...... 4.62 70.40 (5%)  n.d.  ......
+	...... n.d.  ...... 0.37 70.04 (2%)  n.d.  ......   ...... 12.60 7 0.93 (43%)
+	1.14 70.24 (4%)  2.39 7 0.25 (8%)  0.40 7 0.69(2%) 28.7772.48 2.87 7 0.23
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Ethyl butyrate  Isopropyl butyrate Isobutyl butyrate  Butyl butyrate  Isobutyl
+	acetate  Butyl acetate  Total
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> 0.02 70.00 (1%)  n.d. 0.03 70.00 (4%)  n.d.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> After 24 h, EcDL204 increased the ethyl butyrate production about 2.2 fold from
+	37.1670.43 mg/L (or 536.62 μg/gDCW/h) to 87.9372.26 mg/L (1187.35724.32
+	μg/gDCW/h). Likewise, EcDL205 improved the isopropyl butyrate production about
+	3.2 fold from 1.3470.05 mg/L (or 21.3770.58 μg/gDCW/h) to 4.4070.22 mg/L (or
+	68.9672.91 μg/gDCW/h). EcDL206 increased the isobutyl butyrate production about
+	9.0 fold from 1.5470.09 mg/L (or 23.1571.44 μg/ gDCW/h) to 12.6070.93 mg/L (or
+	209.10718.58 μg/gDCW/h). The yields of ethyl butyrate, isopropyl butyrate, and
+	isobutyl butyrate on glucose were 15.370.43, 1.870.07, and 2.8770.23 mg ester/g
+	glucose for EcDL204, 205, and 206, respectively
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> ...... 3.247 0.14  0.167 0.01   ...... 0.62 7 0.01  0.17 0.01   ...... 1.377
+	0.01  0.167 0   ...... 37.917 0.41  2.69 7 0.05   ...... 5.09 7 0.17  0.36 7
+	0.01 1.54 7 0.09 (24%)  0.23 70.02 (3%)  1.08 7 0.02 (17%) n.d.  ...... 5.38 7
+	0.28  1.047 0.02 1.29 70.42(1%)  93.85 7 3.05  15.3 7 0.43 0.38 7 0.34(2%)
+	17.79 7 0.71  1.8 7 0.07 12.60 7 0.93 (43%)  1.14 70.24 (4%)  2.39 7 0.25 (8%)
+	0.40 7 0.69(2%) 28.7772.48 2.87 7 0.23
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Ethyl butyrate  Isopropyl butyrate Isobutyl butyrate  Butyl butyrate  Isobutyl
+	acetate  Butyl acetate  Total
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> Total ester yield (mg/g)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:46:05
+
+
+	> The coupled modular strain produced ethyl butyrate during both the (0--24 h)
+	growth and (24--96 h) stationary phases (Fig. 6A). After 96 h,
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> Fig. 5. Growth kinetics study demonstrating the tight coupling between the
+	modular chassis and ethyl butyrate production module as an obligate ester
+	fermentative pathway. Positive control strain: EcDL001, negative control
+	strain: EcDL002, and test strain: EcDL204.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53
+
+
+	> EcDL204 produced ethyl butyrate up to 134.00 74.83 mg/L (78% specificity), about
+	1.52 fold increase from the previous 24 h experiment (Fig. 6B), and 36.83 72.13
+	mg/L of butyl butyrate. The yield of total ester production was 4.36 70.35 mg/g
+	glucose. It is of interest to note that residue alcohols, 12.39 g/L of ethanol
+	and 0.37 g/L butanol, were also observed at the end of fermentation. Production
+	levels of residue alcohols, suggest (1) low turnover of the alcohol
+	acyltransferase, (2) high ethanol flux, and (3) a relatively high production
+	(22% of total produced esters) of butyl butyrate as a byproduct when compared
+	to the 99% product specificity observed in the high-cell density fermentation
+	experiments. This result provides insight to the efficiency and future
+	optimization of the butyrate ester modules.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-10 18:45:53

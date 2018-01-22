@@ -1,0 +1,70 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces cerevisiae
+
+	> Metabolic engineering for enhanced fatty acids synthesis in Saccharomyces
+	cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2018-01-17 04:01:26
+
+
+	> Herein, the yeast wa Saccharomyces cerevisiae was proposed to be metabolically
+	engineered for cytosol acetyl-CoA enhancement for fatty acid synthesis. By gene
+	disruption strategy, idh1 and idh2 genes involved in citrate turnover in
+	tricarboxylic acid cycle (TCA cycle) were disrupted and the citrate production
+	level was increased to 4- and 5-times in mutant yeast strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2018-01-17 04:01:26
+
+
+	> Medium, culture conditions and chemicals
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> The selective medium for gene disrupted strains were YPD medium with appropriate
+	antibiotics: 200 mg/ml Geneticin (G418) for single gene disruption, 7.5 mg/ml
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> Phleomycin (Phleo) for double gene disruption. The selective medium for gene
+	insertion strains was YNBD-URA synthetic minimal medium (0.67% yeast nitrogen
+	base, containing 2% glucose and supplemented with URA dropout amino acid
+	mixture).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:18
+
+
+	> Fatty acids synthesis description in engineered strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:17
+
+
+	> Total fatty acids production levels in wild type and engineered strains.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:17
+
+
+	> (A) Differential production levels of individual types of fatty acids in wild
+	type and engineered strains. (B) Fatty acids composition (% of total fatty
+	acid) in wild type and engineered strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:51:17

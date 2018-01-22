@@ -1,0 +1,150 @@
+
+
+--------------------------------------------------------------------------------
+# Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol production
+
+	> Metabolic engineering of Saccharomyces cerevisiae to improve 1-hexadecanol
+	production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:29
+
+
+	> In order to improve fatty alcohol production, we have manipulated both the
+	structural genes and the regulatory genes in yeast lipid metabolism. The
+	acetyl-CoA carboxylase gene (ACC1) was over-expressed, which improved
+	1-hexadecanol production by 56% (from 45 mg/ L to 71 mg/L). Knocking out the
+	negative regulator of the INO1 gene in phospholipid metabolism, RPD3, further
+	enhanced 1-hexadecanol production by 98% (from 71 mg/L to 140 mg/L). The
+	cytosolic acetyl-CoA supply was next engineered by expressing a heterologous
+	ATP-dependent citrate lyase, which increased the production of 1-hexadecanol by
+	an additional 136% (from 140 mg/L to 330 mg/L). Through fed-batch fermentation
+	using resting cells, over 1.1 g/L 1-hexadecanol can be produced in glucose
+	minimal medium, which represents the highest titer reported in yeast to date.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:29
+
+
+	> Yeast strains, media, and transformation
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:27
+
+
+	> Yeast and bacterial strains were stored in 25% glycerol at  80 1C. E. coli was
+	grown in Luria--Bertani medium. Ampicillin at 100 μg/mL was added to the medium
+	when required. Yeast strains BY4741, BY4742, and BY4743 were cultivated in YPD
+	medium. Yeast cells were transformed with plasmids listed in Table 1 using the
+	LiAc/PEG method as described previously (Gietz and Schiestl, 2007a, 2007b). To
+	select the yeast transformants, synthetic complete (SC) medium was used,
+	containing 6.7 g/L of yeast nitrogen base plus 20 g/L of glucose, 20 g/L of
+	agar, and the appropriate amino acid drop out mix (MP Biomedicals, Solon, OH)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:27
+
+
+	> Batch and fed-batch fermentation for 1-hexadecanol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:29
+
+
+	> To measure the kinetics of 1-hexadecanol production in batch fermentation using
+	high yeast cell density, the engineered yeast strains were first grown in 100
+	mL SC medium including all the appropriate nucleotides and amino acids, with 2%
+	glucose for 3 days until saturation. Then, cells from 5 mL of culture were
+	centrifuged, washed twice with double-distilled water, and inoculated into 5 mL
+	fresh SC medium with 2% glucose in glass disposable tubes overlaid with 10%
+	dodecane (giving an initial OD600 of  3.0). S
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:29
+
+
+	> 1-Hexadecanol produced by engineered S. cerevisiae strains.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:29
+
+
+	> Host engineering to improve 1-hexadecanol production. ΔRPD3: knock-out of RPD3
+	gene; ΔOPI1: knock-out of OPI1 gene; ACC1: over-expression of ACC1 gene; AtACL:
+	expression of ACL from Arabidopsis thaliana; YlACL: expression of ACL from
+	Yarrowia lipolytica; pIYC08: expression of the pathway that has been previously
+	reported to enhance cytosolic acetyl-CoA (Chen et al., 2013); PEX30: over-
+	expression of PEX30 gene. All strains were cultured in minimal medium lacking
+	the appropriate amino acids with 2% glucose. Values are the mean of three
+	biological replicates7 standard deviation (n¼ 3) after 96 h.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:28
+
+
+	> Batch and fed-batch fermentation for 1-hexadecanol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:28
+
+
+	> With XF3 as our best strain to produce 1-hexadecanol, we next characterized its
+	1-hexadecanol production using both batch and fed-
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:28
+
+
+	> batch fermentation. In batch culture, we inoculated the cells with initial OD600
+	as high as 3.0, while in fed-batch fermentation, we used resting cells with
+	initial OD600 at  12.0 (Fig. 5). By using high cell density or even resting
+	cells, yeast growth can be prevented so that 1-hexadecanol can be more
+	efficiently converted from glucose. Within 36 h in the batch culture, 655 mg/L
+	1-hexadecanol was produced from 20 g/L glucose in XF3, while 533 mg/L
+	1-hexadecanol was produced in the control strain, XF1 (i.e., the strain that
+	was engineered by manipulating both structural genes and regulatory genes in
+	yeast lipid metabolism, but without enhancing acetyl-CoA supply in the
+	cytosol). The highest titer of 1-hexadecanol was achieved using fed-batch
+	fermentation with resting cells, in which the XF3 strain produced 1111 mg/L
+	1-hexadecanol while the control strain XF1 produced 684 mg/L in 48 h.
+	Interestingly, during the fed-batch fermentation of XF3, most of the
+	1-hexadecanol ( 90%) was produced within the first 24 h, while little fatty
+	alcohol was generated afterward. A similar production profile was also reported
+	in another study of fed-batch fermentation using an engineered E. coli strain
+	for producing C12/C14 alcohol (Zheng et al., 2012). Such a phenomenon was
+	hypothesized to be attributed to the diversion of carbon flux to fatty
+	aldehydes instead of fatty alcohols at the late stage of fed-batch fermentation
+	(Zheng et al., 2012). Also, we found that 1-hexadecanol can be metabolized by
+	S. cerevisiae, as detected by a growth assay (Fig. S1). Therefore, the
+	decreased productivity of 1-hexadecanol and the degradation of fatty alcohol
+	could limit the accumulation of 1hexadecanol after 24 h. Overall, through fed-
+	batch fermentation with resting cells, 1-hexadecanol was produced by XF3 at the
+	highest reported titer of 1111 mg/L, a 10-fold increase compared to the
+	previous report on engineering yeast for fatty alcohol production (Runguphan
+	and Keasling, 2013). The yield and productivity of 1-hexadecanol production
+	achieved in this study were 30 mg 1-hexadecanol/g glucose and 42 mg/L/h,
+	respectively.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:28
+
+
+	> The 1-hexadecanol was produced at a titer over 1.1 g/L. However, the yield of
+	1-hexadecanol ( 0.03 g/g) was still far away from the theoretical yield (
+	0.34 g/g), indicating the presence of other ratelimiting steps for fatty
+	alcohol production.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:28:27

@@ -1,0 +1,99 @@
+
+
+--------------------------------------------------------------------------------
+# Ethylene production by metabolic engineering of the yeast Saccharomyces cerevisiae
+
+	> Ethylene production by metabolic engineering of the yeast Saccharomyces
+	cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:12
+
+
+	> The non-ethylene producing yeast, Saccharomyces cerevisiae, was transformed into
+	an ethylene producer by introducing the ethylene forming enzyme from the plant
+	pathogenic bacterium Pseudomonas syringae. Cultivation of the metabolically
+	engineered strain was performed in well-controlled bioreactors as aerobic batch
+	cultures with an on-line monitoring of ethylene production. The highest
+	productivity was obtained during the respiro-fermentative growth on glucose but
+	there was also a significant rate of formation during the subsequent phase of
+	ethanol respiration
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:12
+
+
+	> Yeast strains and plasmids
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Medium and cultivation conditions
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Cells were cultivated at 30 1C in a minimal medium, YNB w/o amino acids and
+	ammonium sulphate (Difco) with 10 g/l of glucose as carbon and energy source
+	and 5 g/l of either ammonium sulphate or glutamate as nitrogen source. Shake
+	flask cultures were conducted in 100 ml bottles with a liquid volume of 10 ml
+	placed on a rotary shaker operating at 120 r.p.m. During incubation the flasks
+	were left open to allow aeration while at certain time intervals and different
+	cell densities of a flask were made gas tight by sealing with a rubber stopper
+	in order to record the amount of ethylene formed. Ethylene formation was
+	stopped by putting the culture in dry ice and analysis was performed by using a
+	GC (see below).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Bioreactor experiments were performed by using two identical SARA Fermentation
+	systems (Belach Biotechnology AB, Bromma, Sweden). The liquid volume was 750
+	ml, pH was kept constant at 5.0 by automatic addition of 1 M NaOH, stirring
+	rate was 600 r.p.m. and aerobic conditions were ensured by flushing with air at
+	a rate of 150 ml/min.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:13
+
+
+	> Specific growth rate (circles) and specific ethylene production rate (squares)
+	of S. cerevisiae after insertion of the ethylene forming enzyme (EFE) from the
+	plant pathogenic bacterium, Pseudomonas syringae. Cells were cultivated in
+	minimal media with 10 g/l of glucose and either ammonium (open symbols) or
+	glutamate (closed symbols) as the nitrogen source. Cultures were run in
+	triplicates and a representative result is shown
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:09
+
+
+	> The superior productivity obtained when switching from ammonium to glutamate as
+	the nitrogen source also provoked a much higher total yield of ethylene.
+	Glutamate usage resulted in a total yield of 8907160 mg ethylene/g glucose (SD,
+	n ¼ 3) while the corresponding value when using ammonium was only 320790 mg
+	ethylene/g glucose (SD, n ¼ 3).
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:09
+
+
+	> The highest productivity of 240 mg ethylene per litre and hour, obtained in
+	shake flask cultures, was increased several fold by the use of well-controlled
+	bioreactors and by substituting ammonium as nitrogen source in favour of
+	glutamate.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 21:24:09

@@ -1,0 +1,464 @@
+
+
+--------------------------------------------------------------------------------
+# A metabolic and genomic study of engineered Saccharomyces cerevisiae strains for high glycerol production
+
+	> A metabolic and genomic study of engineered Saccharomyces cerevisiae
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> this work dealt with a metabolic engineering of the yeast Saccharomyces
+	cerevisiae for glycerol production. This strategy alleviated the inositol-less
+	phenotype of this mutant, by reducing the levels of dihydroxyacetone phosphate
+	and glycerol-3-P, two potent inhibitors of myo-inositol synthase that catalyzes
+	the formation of inositol6-phosphate from glucose-6-phosphate. Further deletion
+	of ADH1 and overexpression of ALD3, encoding, respectively, the major +  +  NAD
+	-dependent alcohol dehydrogenase and a cytosolic NAD -dependent aldehyde
+	dehydrogenase yielded a yeast strain able to produce 0.46 g glycerol (g
+	glucose)  1  at a maximal rate of 3.1 mmol (g dry mass)  1  1  h  in aerated
+	batch cultures.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> strains for high glycerol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:33
+
+
+	> Construction of engineered yeast strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:30
+
+
+	> Shake flask and batch cultures
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> To assess for growth efficiency, the wild type and engineered yeast strains were
+	cultivated at 30 1C in 0.5 l Erlenmeyer flasks containing 150 ml of the
+	following media: YPD (2% peptone, 1% yeast extract, 2% glucose), MO (2%
+	peptone, 1% yeast extract, 0.1% glucose, 1%
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:37
+
+
+	> ethanol), SD (1.7 g l  1  yeast nitrogen base without amino acids and ammonium,
+	5 g l  1  1  ammonium sulphate, 20 g l glucose and completed with auxotrophic
+	requirements) buffered at pH 5.0 by addition of 85 mM sodium succinate pH 5.0.
+	Growth was followed by measurement of absorbance at 600 nm.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:29
+
+
+	> For cultivation in bioreactors, a loopful of the stock culture was inoculated
+	into two 0.5 l Erlenmeyer flasks containing 150 ml of SD medium supplemented
+	with 1  auxotrophic requirements at 200 mg ml , and incubated on a rotary
+	shaker at 150 rpm. After 24 h of cultivation at 30 1C, the volume necessary to
+	start the fermentation with 0.05 OD was harvested by centrifugation and the
+	pellet was transferred to a 2-l bioreactor (Biostat MD, Braun, Melsungen,
+	Germany) containing 1.5 l of the same medium as in shake flasks. Cultures were
+	carried out at 30 1C, with continuous stirring at 150 rpm and an aeration rate
+	of 0.5 vvm. The pH was maintained at 5.0 by automatic addition of NaOH 1 M.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:29
+
+
+	> 1  In a well-aerated glucose synthetic medium (20 g l
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> glucose), the production of glycerol by the wild type yeast
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Table 3 Growth rate, yield of biomass and fermentation products in engineered
+	strains for glycerol production obtained from shake flask cultures
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> CEN.PK2  Wild type HC13  ......  HC16  ......  HC17  ......  HC23  ......  HC30
+	......  HC32  ......  HC42  ......  FM62  ......
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Growth was carried out in SD medium at pH 5.0 as described in Material and
+	methods. Yield for each metabolites was determined at the time of the complete
+	consumption of glucose from the medium and it is expressed as 'g product per
+	100 g glucose'. Values of yield are the mean7standard deviation from four
+	independent experiments. nd ¼ not determined.
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Genetic modification
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> GPD1 overexpression  ...... GPD1 overexpression and TPI1 deletion ADH1 deletion
+	...... GPD1 and ALD3 overexpression  ...... GPD1 and ALD3 overexpression and
+	TPI1 deletion GPD1 overexpression and TPI1+ADH1 deletion GPD1 and ALD3
+	overexpression and ADH1+TPI1 deletion GPD1, ALD3 and FPS1 overexpression,
+	TPI1+ADH1 deletion  0.1270.02
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> strain (CEN.PK2) reached a maximum of 2.070.4% of the glucose consumed  ......
+	Taken together, this strategy yielded a glycerol producer strain that exhibited
+	a 1  glycerol production yield of 0.36 g (g glucose) , similar to that of the
+	quadruple tpi1Dnde1Dnde2Dgut2D mutant
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  In a well-aerated glucose synthetic medium (20 g l
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  Growth rate (h )  Biomass yield  Ethanol  Glycerol  Acetate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 0.4470.04 0.4470.04 0.0970.01 0.2670.03 0.3970.03 0.1370.03 0.1070.01 0.1370.01
+	GPD1, ALD3 and FPS1 overexpression, TPI1+ADH1 deletion  0.1270.02
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  Growth rate (h )  Biomass yield  Ethanol  Glycerol  Acetate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  Growth rate (h )  Biomass yield  Ethanol  Glycerol  Acetate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1270.5 1070.3 970.4 1170.5 1071.3 971.4 9.170.5 8.171.3 971.4
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  Growth rate (h )  Biomass yield  Ethanol  Glycerol  Acetate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 4173.0  2.070.4  470.5 3273.0  19.371.4  570.5 1972.0  3673.6  970.4 2972.0
+	1972.5  1370.8 3371.0  18.57 2.0  570.6 1972.0  4272.5  870.4 870.4  4672.5  nd
+	871.4  4672.7  670.3 1272.8  4671.7  nd
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 4173.0  2.070.4  470.5 3273.0  19.371.4  570.5 1972.0  3673.6  970.4 2972.0
+	1972.5  1370.8 3371.0  18.57 2.0  570.6 1972.0  4272.5  870.4 870.4  4672.5  nd
+	871.4  4672.7  670.3 1272.8  4671.7  nd
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 1  Growth rate (h )  Biomass yield  Ethanol  Glycerol  Acetate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> 4173.0  2.070.4  470.5 3273.0  19.371.4  570.5 1972.0  3673.6  970.4 2972.0
+	1972.5  1370.8 3371.0  18.57 2.0  570.6 1972.0  4272.5  870.4 870.4  4672.5  nd
+	871.4  4672.7  670.3 1272.8  4671.7  nd
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:36
+
+
+	> Table 6  ...... Yield of biomass and fermentation products during batch culture
+	of the isogenic wild type and two engineered strains for glycerol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Fermentation products
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Biomass Ethanol Glycerol Acetate Pyruvate Acetaldehyde Acetoine Succinate
+	Citrate
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Carbon balance (%)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Strains
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Wild type  HC16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 12.571.30 40.472.7 1.5070.20 4.9070.34 0.4570.10 0.4070.10 0.6570.07 bd bd
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 99.9
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Wild type  HC16
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 9.9871.5 17.470.7 41.873.3 1.9870.7 0.3570.05 0.2170.05 0.2770.04 0.2570.04 0.14
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 92.2
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> HC42
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 8.771.1 11.670.7 45.872.5 2.8070.7 0.6670.10 2.970.07 2.170.20 0.557 0.14
+	0.6870.10
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Table 7  ...... Metabolites levels in strains engineered for glycerol production
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 90
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Metabolites (mmol g  1  dry mass)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Metabolites (mmol g  1  dry mass)
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> DHAP Glycerol-3-P Glycerolin NAD  + NADH +  NAD /NADH  16.7 ATP ADP AMP AC
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> Wild type  HC14
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 1.8970.50 35.778.20 10.9074.30  8.973.30 nd 0.1970.06 4.1070.90  3.5771.0
+	1.6070.70 nd  ...... 2375.50  59714.6  160755  212736  115735 2.7570.79
+	3.0870.38  3.5270.64 2.9570.59 nd 0.16770.08 0.03170.008 0.03970.01 0.03870.012
+	nd +  NAD /NADH  16.7  ...... 97.7  ...... 79  ...... 77  ...... nd  ......
+	3.8570.35 1.8370.55  1.9770.28 2.6570.30 nd 1.0770.12 1.4670.33  1.4970.34
+	1.8570.07 nd 0.16570.12 1.6770.24  1.2370.09 0.8170.15 nd 0.86  ......   ......
+	0.58  ......   ...... nd
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 0.1970.06 4.1070.90  3.5771.0  1.6070.70 nd 2375.50  59714.6  160755  212736
+	115735
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 97.7
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 0.51
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> HC16  HC42
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> HC16  HC42
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 1.8970.50 35.778.20 10.9074.30  8.973.30 nd 0.1970.06 4.1070.90  3.5771.0
+	1.6070.70 nd 2375.50  59714.6  160755  212736  115735
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 77
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 0.64
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> FM62
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
+
+
+	> 0.1970.06 4.1070.90  3.5771.0  1.6070.70 nd 2375.50  59714.6  160755  212736
+	115735
+
+		- @None
+		- Tags: 
+		- Ctime: 2017-06-21 20:44:34
